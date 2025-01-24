@@ -1,0 +1,8 @@
+You will decide if a given restaurant name belongs to the Romanized category or no. If a name classifies as Romanized, return 1; if not, return 0. 
+Your response can only be 0 or 1, no other explanation is needed.
+You will decide whether the name of the restaurant '''{EN_NAME}''' belongs to the Romanized category. As long as a name contains one word that classifies as Romanized, the entire name classifies as 
+Romanized. 
+
+Here is the definition for classifying Romanized:
+    Romanized names contain Romanized Chinese characters that are NOT names of a person or names that indicate relationships. 
+    Romanized Chinese characters means that we are spelling the pronunciation of Chinese characters using English letters. Response: single digit reply

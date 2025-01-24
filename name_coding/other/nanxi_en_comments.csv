@@ -1,0 +1,7 @@
+,sample_id,national_id,English_Name,Chinese_Name,Personal_Name,Specialty,Positivity,Culture,Location,Ambiance,Pun_Creative,Romanized,Relationship,Comments
+42,3561,25045,Nuodle Express,半一嘴,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,？
+68,1668,15522,Chinatown Restaurant,华城小馆,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Chinatown算啥
+110,2982,5920,How Lee,好利,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,?
+349,3618,32062,New China Pearl,中国珍珠,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,珍珠算positive?
+392,3454,20168,Yummy Street,敦煌食街,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,street shoudl also count as ambiance
+437,2348,27373,Joy Food One,珍味园,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,not sure

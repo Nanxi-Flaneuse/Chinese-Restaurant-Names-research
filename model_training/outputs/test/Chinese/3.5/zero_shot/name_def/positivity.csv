@@ -1,0 +1,412 @@
+,sample_id,national_id,English_Name,Chinese_Name,Positivity
+0,1724.0,13697.0,New China Buffet,中,1
+1,2841.0,28810.0,MImian,迈面,1
+2,337.0,5610.0,Sang Kee Peking Duck,生记烧腊,0
+3,773.0,11503.0,Tasty & Co,好味屋,1
+4,3983.0,26917.0,Hong Kong BBQ Restaurant,祥发烧腊小馆,1
+5,551.0,16731.0,JS Chinese Restaurant,喜来居,1
+6,3759.0,9276.0,Legend 72,蜀留香,1
+7,3135.0,24817.0,Bei Jing | Hot Pot & Asian Cuisine,迷你涮涮锅,0
+8,422.0,11339.0,Spicy Asian,川味坊,1
+9,2811.0,15306.0,Twin Dragon,双龙,0
+10,1652.0,5334.0,Shanghai Osaka Restaurant,辣魅,1
+11,2767.0,2547.0,Bamboo Star,华星,1
+12,174.0,8393.0,King Taste Restaurant,味中味,1
+13,487.0,24871.0,Hong Kong Express,香港,1
+14,3476.0,16585.0,Hunan Garden,湖南苑,1
+15,2042.0,17558.0,Shan Dong,山东饭店,1
+16,3940.0,26389.0,Peking Restaurant,永盛园,1
+17,1358.0,23276.0,China Villa,华村,1
+18,3600.0,7202.0,Chin's Restaurant,好好,1
+19,1430.0,765.0,Mei Chang Take Out Food,美津,1
+20,3398.0,25850.0,Din Ding Dumpling House Union City,鼎顶,1
+21,3783.0,8447.0,Fu Lin,福临,1
+22,3646.0,19004.0,China Chef,华府,1
+23,2075.0,25369.0,Goldan Yan Restaurant,金苑酒家,1
+24,1791.0,10705.0,De Tasty Hot Pot Restaurant,故乡味火锅,1
+25,784.0,3649.0,Mayflower Chinese Restaurant & Carryout,五月花,1
+26,2705.0,4648.0,Dumpling Palace,"南北和
+",1
+27,1558.0,1869.0,Beijing Cafe,北京城,1
+28,934.0,10906.0,Sam Lee Kitchen,顺利,1
+29,2039.0,26344.0,Harbin Dumplings,哈尔滨饺子,1
+30,3543.0,32073.0,China House,江旺,1
+31,1661.0,3403.0,Ming Lee Chinese Restaurant,"明利楼
+",1
+32,3971.0,13295.0,Happy Garden Chinese Restaurant,锦煌,1
+33,4021.0,10972.0,Kam Sheng,金城,1
+34,2874.0,17942.0,China One #3,容家餐馆,1
+35,2414.0,24660.0,New Big Daddy's,味之选,1
+36,1780.0,11556.0,Hip Wo,协和,1
+37,2708.0,23593.0,Long's Kitchen,"
+湘味馆",1
+38,1589.0,32648.0,Taste Place,品味,1
+39,1183.0,31601.0,Jess Cafe,广美,1
+40,657.0,30598.0,New Asian Ju Yuan,聚园,1
+41,399.0,11884.0,South of the Clouds,云之南,1
+42,3098.0,13745.0,China Kitchen,华厨,1
+43,1642.0,26428.0,Tofu King,"臭豆腐大王
+",1
+44,1151.0,228.0,Great Wall Chinese Restaurant,长城,1
+45,797.0,21168.0,Hunan Express,湖南,1
+46,3855.0,10072.0,Jing Fong,金丰酒家,1
+47,3895.0,6874.0,Taste King,华冠,1
+48,3440.0,582.0,Dragon Cuisine,龙之味,1
+49,2964.0,0.0,Happy Wok,快乐餐馆,1
+50,3896.0,21148.0,China Garden of Tunica,中国酒家,0
+51,1785.0,616.0,King Buffet,帝苑,1
+52,181.0,22063.0,China Buffet,食,1
+53,146.0,808.0,Yummy House Gainesville,美食轩,1
+54,1101.0,2420.0,Taste of China,乐园,1
+55,3477.0,23461.0,Red Panda Kit,上海人家,1
+56,1784.0,3434.0,Yeung's,杨城楼,1
+57,3455.0,14942.0,Asian BBQ & Noodle,松记烧腊车仔面,0
+58,3137.0,24128.0,New Flavors,新口味,1
+59,984.0,28983.0,Tsou's Place,邹,1
+60,2945.0,21816.0,China Gourmet,中华饭店,1
+61,1021.0,31060.0,Silver Lake Chinese Restaurant,银湖,1
+62,3617.0,21346.0,Lin's Kitchen,林,1
+63,343.0,23468.0,Rice Garden Anchorage,丽苑,1
+64,2093.0,13429.0,Chong Qing House,重庆山庄,1
+65,847.0,5402.0,Little Bamboo Chinese Restaurant,竹轩,1
+66,3923.0,28135.0,Asian Star,亚洲星,1
+67,2319.0,30667.0,New Fresh Wok,清香楼,1
+68,1620.0,5675.0,Yang China House,杨家园,1
+69,1095.0,31759.0,CHI Family Restaurant,真善美,1
+70,3590.0,9260.0,Changle Xin Fan Zhuang,松柏园,1
+71,559.0,2653.0,Mr. Wonton,长江,1
+72,3247.0,29098.0,Jade Tiki Chinese Restaurant,翠宫,1
+73,3720.0,13692.0,Chinese Express,金门,1
+74,562.0,17197.0,New Asia Restaurant,亚洲,1
+75,1537.0,22499.0,On Dong Chinese Restaurant,安东饭店,1
+76,1726.0,22491.0,Lee Ho Fook Restaurant,"
+利口福饭店",1
+77,1320.0,15753.0,Mandarin Pine Restaurant,双华,1
+78,2795.0,22623.0,Cozy Cafe,"大锅大卤味
+",0
+79,113.0,17220.0,China Harbor,中港城,0
+80,3259.0,11094.0,Hunan House,湘水山庄,1
+81,820.0,12735.0,New China,新中国,1
+82,1571.0,16749.0,Peking Garden Asian Cuisine,"
+京园",1
+83,379.0,33158.0,Jade Palace Restaurant,玉宫,1
+84,3507.0,13096.0,New Sichuan,小四川,1
+85,3659.0,4320.0,Lili's Restaurant,西安,1
+86,921.0,6743.0,Moy Fong Restaurant,梅芳,1
+87,869.0,24451.0,Lin's Asian Bistro,林家园,1
+88,2254.0,29617.0,House Of Chen,陈园,1
+89,2488.0,3509.0,Bao Bao Dumpling House,包宝,1
+90,1292.0,30897.0,China Star,福,1
+91,1113.0,3720.0,Eastern 88 Chinese Restaurant,东都,1
+92,1631.0,7749.0,Hop Hing Chinese Restaurant,合兴,1
+93,3605.0,22496.0,Chengdu Taste,滋味成都,1
+94,3380.0,4660.0,Wing's Kitchen,小南阁,1
+95,3013.0,10222.0,King Wok Chinese Food,金华,1
+96,3518.0,22111.0,Happy Sheep Hot Pot,小肥羊,1
+97,3805.0,5556.0,New No 1,第一,1
+98,3854.0,24266.0,E @ Cup,一张嘴,0
+99,1594.0,28709.0,Mandarin House,富贵楼,1
+100,1341.0,306.0,Pearl East,东海楼,1
+101,3622.0,28470.0,Gourmet House,"
+美味城",1
+102,816.0,13293.0,Ming Moon Chinese Restaurant,来来,1
+103,1882.0,6666.0,Hung Tao,鸿涛,1
+104,2017.0,12019.0,Simply Noodles,面,1
+105,2621.0,10872.0,Red Tiger Dumpling House,"红虎饺子坊
+",1
+106,497.0,24819.0,Joy Kitchen,翠香,1
+107,491.0,23477.0,Imperial Palace Restaurant,皇帝,1
+108,1176.0,13991.0,Beijing Kitchen,北京厨房,1
+109,1945.0,3619.0,Peking Court,北京阁,1
+110,3820.0,5276.0,Ming Cheng,明城,1
+111,1148.0,16570.0,Chin's Cafe,陈氏餐馆,1
+112,1442.0,30845.0,New Asian Express,美味中国,1
+113,2787.0,30964.0,Red Sun,红日,1
+114,86.0,9921.0,China Pavillion,厨王,1
+115,1123.0,19229.0,Woks it 2 U,爱福奉和,1
+116,1534.0,701.0,China City,正茂,1
+117,1861.0,22631.0,Tofu King,臭豆腐大王,0
+118,1585.0,33261.0,Mr. Hui's,东辉阁,1
+119,458.0,13383.0,Great Taste Chinese Restaurant,珍馐阁,1
+120,254.0,18322.0,King Mao,毛家村,0
+121,4017.0,16011.0,Kawaii Sushi and Asian Cuisine - Peoria,美食家,1
+122,3416.0,21924.0,Hong Kong Snack House,香港小食,0
+123,1893.0,18026.0,Grand Wall Chinese Restaurant,大城,1
+124,109.0,559.0,China Taste,昌旺,1
+125,3275.0,20173.0,Lucky Bento V.I.P. Cuisine,小沈阳,1
+126,3051.0,17464.0,Moon Star,月星,1
+127,2364.0,13198.0,King's Wok Chinese Restaurant,东宫,1
+128,1323.0,30795.0,Golden Bowl Restaurant,金宝,1
+129,2566.0,10298.0,Taste of China,美味宫,1
+130,1764.0,19843.0,Chen Chen Chinese Buffet,陈陈,0
+131,93.0,16458.0,Treasure Pot,聚宝居,1
+132,933.0,30471.0,China City,旺佳园,1
+133,42.0,22978.0,Momo Bistro,总舖师正宗台菜,1
+134,2244.0,896.0,Empire Szechuan,"帝国
+",1
+135,2749.0,9341.0,Ah Law Kitchen,罗,1
+136,2862.0,23596.0,Noodology - Irvine,一碗粉,0
+137,1483.0,18106.0,Chinese American Restaurant,中美酒楼,1
+138,1077.0,3398.0,Far East,远东,1
+139,3213.0,4147.0,Garden Sea,海园,1
+140,2207.0,13585.0,Ocean City Restaurant,海城,1
+141,3584.0,12278.0,Xing's Chef,兴,1
+142,3367.0,18974.0,Grand Fortuna,京华,1
+143,1975.0,30886.0,Rice Bowl Chinese Restaurant,饭碗,0
+144,503.0,7819.0,LaoWu Authentic ShangHai Dumpling,老吴上海小笼,1
+145,530.0,33070.0,King's Buffet,皇厨,1
+146,512.0,547.0,Hing Wang Chinese Restaurant,兴旺,1
+147,2551.0,12169.0,Great China,新大华,1
+148,2734.0,24301.0,Mike's Hong Kong Bistro,"香港楼
+",1
+149,3643.0,22775.0,Yan's Garden,添雄楼,1
+150,3946.0,19118.0,EggRoll Street,王大,1
+151,812.0,31645.0,Van Phat Chinese Restaurant,发文,1
+152,489.0,29879.0,Jumbo Buffet,珍宝,1
+153,2883.0,13323.0,China Buffet,天坛,1
+154,2136.0,9939.0,Sing Mee Kitchen,盛美,1
+155,3286.0,30272.0,Imperial House Restaurant,颐和园,1
+156,1351.0,10445.0,China King,大宏,1
+157,2951.0,21892.0,Taste Of Sichuan Beaverton,四季飘香,1
+158,3755.0,22568.0,Fu House Chinese Food and Sushi,福苑,1
+159,177.0,3506.0,China Village,顺风楼,1
+160,1540.0,4933.0,Easton Lucky Corner,旺角,1
+161,2723.0,14998.0,Mr. Wong,老黄快餐,0
+162,907.0,32642.0,J & I Chinese Kitchen,翡翠,1
+163,3788.0,25972.0,Lee's Chinese Restaurant,李氏餐馆,1
+164,65.0,20864.0,New China,中国,1
+165,2650.0,11085.0,Wok King,华兴,1
+166,3449.0,22670.0,Sichuan Style Restaurant,一品川湘,1
+167,456.0,27366.0,Wok & Roll,红宝,1
+168,2357.0,8640.0,Golden Eagle Chinese Restaurant,金鹰,1
+169,2032.0,22847.0,Golden Horse Restaurant,新金马餐馆,1
+170,2420.0,27070.0,China Red,红馆,1
+171,692.0,6636.0,Golden Sea Chinese Restaurant,金海,1
+172,3572.0,6338.0,Chu-Lee Gardens Bradford Chinese Restaurant,朱李园,1
+173,1026.0,658.0,Tree Garden,松园,1
+174,2011.0,4498.0,Empire Buffet,帝国,1
+175,3667.0,24388.0,New Noodle Garden Taiwanese Cuisine,"
+政记牛肉面",1
+176,3067.0,17005.0,Little Sichuan Cuisine,老熊川菜,1
+177,3568.0,31104.0,June Heng Restaurant,津香,1
+178,3203.0,27758.0,Golden Mountain Restaurant,金山楼,1
+179,68.0,24667.0,Chef's Wok,半岛海鲜酒家,1
+180,3558.0,7964.0,Kosher Chinese Express,高美,1
+181,3482.0,15575.0,Red 8,红粥面,1
+182,1050.0,6855.0,Taste King Restaurant,好彩,1
+183,1228.0,13426.0,Ching Tao Restaurant,"青岛酒家
+",1
+184,3314.0,32004.0,Moon Temple Chinese Restaurant,月宫,1
+185,2972.0,5744.0,Red Tea House,新悦,1
+186,3549.0,17689.0,China Garden Restaurant,"
+华园",1
+187,3464.0,29752.0,China Moon Restaurant,"月华饭店
+",1
+188,2097.0,3372.0,Camden Island,康利,1
+189,2791.0,22595.0,No. 1 Express,快餐一号,0
+190,2170.0,17527.0,Lee's Asian Fusion,川潮,1
+191,3613.0,6654.0,Chen's Garden Chinese Restaurant,宏东,1
+192,3797.0,665.0,Pinang Malaysian restaurant,马来餐馆,0
+193,3190.0,3099.0,Wang's II Chinese Restaurant,王家园,1
+194,2969.0,20153.0,China House Chinese Restaurant,明月楼,1
+195,3697.0,7612.0,China Palace Restaurant,聚丰园,1
+196,732.0,31275.0,Uncle Mao's Chinese Restaurant,真光,1
+197,1915.0,9421.0,YANHUANG Gourmet,炎黄美食,1
+198,103.0,4695.0,Mandarin Restaurant,华明,1
+199,2356.0,8017.0,Ming's Garden,怡明园,1
+200,837.0,19854.0,Panda Palace,熊城,1
+201,880.0,20695.0,Asian Garden,亚洲园,1
+202,2124.0,5668.0,King Food Restaurant,鸿福,1
+203,2872.0,15309.0,Dynasty Cafe,古为今用,1
+204,323.0,20223.0,Noodle Master,面匠,1
+205,1681.0,8257.0,Hunan Royal,福来,1
+206,1112.0,10366.0,Qin-Fang Garden Restaurant,沁芳园,1
+207,2673.0,16654.0,Great Wall,"
+长城",1
+208,310.0,27196.0,Lucky House Restaurant,好好运,1
+209,815.0,27626.0,China Wok,龙城,1
+210,2992.0,8283.0,Golden Dynasty Chinese Takeout,金,1
+211,1200.0,622.0,Jade Garden,翠园,1
+212,4022.0,25932.0,Sam Woo BBQ,香港三和,1
+213,3945.0,5338.0,China City,中国城,0
+214,1303.0,26507.0,Chinese restaurant in Milton-Freewater Oregon,红茶园,1
+215,160.0,22874.0,Capital,京都餐馆,1
+216,1213.0,23247.0,Blue Willow Restaurant,蓝杨,1
+217,1456.0,9868.0,China Wok,皇朝,1
+218,2600.0,16080.0,"Pop Pot & Tea (Chandler, AZ)",三妈嗅嗅锅,0
+219,2956.0,31874.0,Peking House,北京园,1
+220,40.0,1130.0,TELY'S Chinese Restaurant,中菜泰利,1
+221,595.0,22041.0,Sakura Grill & Buffet,烧,1
+222,1576.0,873.0,Dragon Phoenix Chinese Cuisine,龙凤,1
+223,2813.0,6679.0,China II,升辉,1
+224,285.0,33181.0,Imperial Kitchen,御厨房,1
+225,3547.0,2145.0,Chifa Du Kang Bird Road - Peruvian Chinese Restaurant,杜康,1
+226,1663.0,24296.0,Harbor Village Cuisine,海港渔邨,0
+227,277.0,31235.0,Mo's Chinese Kitchen,东豪轩,1
+228,3027.0,1750.0,Jin Jin 88,公元前,0
+229,2466.0,29241.0,Wing On Chinese Restaurant,永安,1
+230,1769.0,625.0,Tung Hsing House,东兴园,1
+231,1450.0,24403.0,Little Lamb Hot Pot & BBQ,小尾羊,1
+232,4018.0,21687.0,Tian Fu Seattle,天府春秋,1
+233,3624.0,13988.0,Happy Garden,"
+喜和园",1
+234,3727.0,31171.0,Eat Rice,米,1
+235,3283.0,3380.0,Chen's,陈氏,1
+236,2546.0,28894.0,New Wing Hing,永兴,1
+237,1668.0,15522.0,Chinatown Restaurant,华城小馆,1
+238,3125.0,23594.0,Sichuan Impression,锦城里,1
+239,898.0,471.0,Jia Mei Asian Kitchen,隹美,1
+240,3780.0,21021.0,Chongqing Chicken Pot,重庆鸡公煲,1
+241,3001.0,15048.0,Wong's Restaurant,黄黄,0
+242,549.0,16724.0,Full House Chinese Restaurant,聚福楼,1
+243,3903.0,10822.0,Asian Jewels,敦城海鲜酒家,1
+244,3095.0,30731.0,Pagoda,忘不了,1
+245,2095.0,21368.0,Yongzi Ji Restaurant,勇仔记,1
+246,3236.0,6179.0,Hop Sing,合诚,1
+247,1993.0,12054.0,Cheong Hei,新长禧,1
+248,527.0,8683.0,Lim Fongs,林芳,1
+249,3387.0,29796.0,Shao Ting Guo,绍廷阁,1
+250,187.0,32586.0,Lao Peking Chinese Restaurant,老北京,1
+251,3231.0,28621.0,China Wind,中国风,1
+252,3943.0,22098.0,Seafood Town Chinese Restaurant,海鲜楼,1
+253,1868.0,11895.0,Ho Ming Kitchen,好明,1
+254,1468.0,7344.0,CHINA WOK II,景然,1
+255,2982.0,5920.0,How Lee,好利,1
+256,3690.0,14390.0,Triple Eight 2,宏华,1
+257,2429.0,14065.0,Miu Kee Cantonese Cuisine,苗记,1
+258,212.0,26652.0,The Noodle,面面店,1
+259,474.0,7768.0,Jade Garden restaurant,翠玉,1
+260,3389.0,5350.0,Ming House,喜龙楼,1
+261,3574.0,4077.0,Golden Pavilion Restaurant,金亭,1
+262,1835.0,2141.0,Canton Palace Chinese Restaurant,汉宫,1
+263,3359.0,9263.0,King Wok,华隆,1
+264,1782.0,9848.0,88 China City,"
+中国城",0
+265,2587.0,32189.0,Lulu Chinese Express,金满楼,1
+266,1573.0,6588.0,Zhuang's Garden,庄园,1
+267,3888.0,31051.0,Hong Kong Chef Chinese,港龙,1
+268,2471.0,21347.0,Imperial Palace,皇宫酒楼,1
+269,3087.0,11801.0,New Panda,新熊猫,1
+270,2823.0,13028.0,China King,皇城,1
+271,1209.0,7956.0,No. 1,如意,1
+272,3470.0,16123.0,Red Dragon Chinese Bistro,龙,1
+273,2922.0,21546.0,Yue Huang Restaurant,"
+粤煌",1
+274,3687.0,12203.0,Empire King,帝王,1
+275,1330.0,5201.0,North Hot Pot,北方火锅,1
+276,3106.0,23719.0,Treasure Dragon,宝龙,1
+277,2197.0,7597.0,China Kitchen,明亮,1
+278,613.0,23841.0,Little Sichuan Restaurant,福恩园,1
+279,2440.0,31711.0,Dwight Chinese,中国星,1
+280,561.0,27069.0,QQ Kitchen,QQ小吃,0
+281,1145.0,26037.0,Mada-Sao,吞,1
+282,2946.0,25532.0,San Wok Express,三和,1
+283,3832.0,5335.0,Lilac Blossom (Sky Meadow),紫丁香,1
+284,982.0,5422.0,Chan's House,陈家搂,1
+285,433.0,27107.0,Shihlin Fremont,士林,1
+286,3512.0,13911.0,Lee Lee's Hot Kitchen,利利小馆,1
+287,2345.0,23120.0,Full Moon Mandarin Cuisine,富满美食,1
+288,3550.0,12020.0,Mama Lee,一品香,1
+289,866.0,33056.0,Oriental Garden,东方庭院,1
+290,535.0,12649.0,Szechuan Kitchen,川厨,1
+291,1140.0,22634.0,Noodle St,拉面街,1
+292,3935.0,14559.0,Cheng Du Chinese Restaurant,飘香成都,1
+293,2087.0,4256.0,China Kitchen Rest,鑫楼,1
+294,1669.0,5444.0,Reren Lamen & Bar,"热人拉面
+",1
+295,2379.0,30502.0,Star Dragon,星龙,1
+296,1610.0,30859.0,Giant Panda Chinese Restaurant,大熊猫,1
+297,475.0,14897.0,Min's China City,中园,1
+298,2243.0,25567.0,Sizzling Pot King,"香锅大王
+",1
+299,1149.0,9842.0,Wah Sang,华盛,1
+300,3767.0,22632.0,Yi Mei,义美,1
+301,2120.0,11744.0,Dim Sum Chinese Fast Food,点心,1
+302,51.0,24456.0,Fire Wok Express,大快活,1
+303,3061.0,29103.0,Golden Harbor Grill,金色港湾,1
+304,3458.0,19721.0,Wong's Express,旺市,1
+305,2139.0,13302.0,Sister's Chinese Restaurant,凤冈,1
+306,3483.0,5246.0,Man Yee,万宜,1
+307,882.0,26357.0,Cachanilla Chinese Restaurant,华庭海鲜馆,1
+308,1500.0,675.0,Empire,之味馆,1
+309,226.0,1111.0,Li's Garden Chinese Restaurant,恒久,1
+310,3683.0,18126.0,Yellow River Restaurant,何处觅小馆,1
+311,1917.0,15749.0,Dragon Wall Restaurant,"
+龙城",1
+312,2552.0,11093.0,Rong Cheng House,朵颐食府,1
+313,76.0,13728.0,China Dragon,兴龙,1
+314,62.0,10661.0,New Century,新世纪,1
+315,2959.0,25531.0,V Garden,"顺利得饮食世界
+",1
+316,3509.0,19456.0,New Mosa Asian Bistro .XiongFa Mosa LLC,亚,1
+317,320.0,6639.0,Chan's Tea House,翠华,1
+318,765.0,21514.0,Cheung Sheng Chinese Restaurant,长胜,1
+319,554.0,30714.0,Panda Garden Buffet,熊猫园,1
+320,1486.0,22929.0,Tea Leaf 2,秘苑,1
+321,2533.0,638.0,China King,嘉辉,1
+322,1273.0,10065.0,Dunhuang,敦皇,1
+323,3109.0,17495.0,Egg Roll House,春卷楼,1
+324,3142.0,18533.0,China Express,鸿发,1
+325,2223.0,9686.0,Famous Sichuan,川外川,1
+326,2242.0,31884.0,SZECHUAN TASTE CHAMPAIGN LLC,"功夫食坊
+",1
+327,2905.0,7070.0,China Taste,"
+中国味",1
+328,2984.0,9896.0,Golden Express Chinese Kitchen,金隆,1
+329,2098.0,25940.0,Four Seasons Gourmet Chinese Restaurant,四季美食,1
+330,3618.0,32062.0,New China Pearl,中国珍珠,1
+331,258.0,7343.0,LI LAI chinese restaurant,利来,1
+332,3156.0,11376.0,Hing Hung Kitchen,兴鸿,1
+333,2218.0,14563.0,Hunan Kitchen,湘湖饭店,1
+334,228.0,23754.0,Kuang's Kitchen,邝氏,0
+335,1766.0,8513.0,Liu's Kitchen,刘家园,0
+336,3335.0,15267.0,New Hong Kong Restaurant,新香港,1
+337,645.0,15271.0,Happy Chinese Restaurant,康乐园,1
+338,3520.0,18608.0,Panda Cuisine,蓉园,1
+339,2938.0,3777.0,HOT POT CITY,"山城火锅
+",1
+340,2666.0,26588.0,Old Pier Hong Kong BBQ,"老码头自助火锅
+",1
+341,3677.0,19244.0,Tangs Express 88,唐,1
+342,691.0,23859.0,Chef Wu's,欢喜楼,1
+343,327.0,2810.0,Three Color Asian Kitchen,腾飞阁,1
+344,1883.0,11687.0,Chengs Oriental Express,"
+邓家源南北风味",1
+345,3454.0,20168.0,Yummy Street,敦煌食街,1
+346,372.0,25872.0,Fortune Garden Chinese Restaurant,福满楼,1
+347,3039.0,26449.0,Triple 8 China Bar & Grill,发,1
+348,1268.0,221.0,King Wah Chinese Restaurant,琼华,1
+349,2653.0,6998.0,Hing Wong,"
+兴旺",1
+350,2424.0,4683.0,Food Wall Chinese Restaurant,福城,1
+351,525.0,5232.0,Golden Koi,金锦鲤,1
+352,717.0,14918.0,Shang Artisan Noodle,上面,1
+353,2003.0,28788.0,China 1,天香楼,1
+354,3610.0,8826.0,ShangShi,尚食,1
+355,3608.0,7041.0,AH Topper Chinese & American Food,阿滔,1
+356,930.0,297.0,China Gourmet,大三元,1
+357,922.0,7368.0,WIN WAH,云华楼,1
+358,3867.0,17926.0,Young's Fortune Restaurant,杨家福,1
+359,524.0,30259.0,CHEF CHU'S,喜福局,1
+360,1697.0,14276.0,Tray Ting House,"翠庭楼
+",1
+361,3254.0,580.0,Square Garden Chinese Restaurant,方园,1
+362,2565.0,23713.0,Seafood Kingdom,皇朝大酒楼,1
+363,980.0,6470.0,Yummi Japan,寿司,1
+364,3167.0,32508.0,Grandview Buffet,快乐庭,1
+365,2944.0,19523.0,New China Restaurant,欣华,1
+366,1875.0,23237.0,Blue Moon Cafe and Karaoke,"港式茶餐厅
+",1
+367,1655.0,7248.0,Taste of China,中国风味,1
+368,3193.0,20167.0,Tian Tian Lu Chuaner,天天,1
+369,2123.0,26628.0,Little Skewer,从前的小酒馆,0
+370,1686.0,15871.0,Yummy House,香满楼,1
+371,2537.0,12869.0,Double Happiness Chinese Restaurant,囍,1
+372,608.0,3369.0,Hong Kong Island Chinese Restaurant,香港楼,1
+373,3818.0,12124.0,Double,得宝,1
+374,3875.0,9699.0,Elegant,富丽,1
+375,1224.0,22092.0,Golden Fountain Restaurant,金泉,1
+376,1679.0,10953.0,NEW EAST WOK INC,东,1
+377,3397.0,28644.0,North Garden,北园,1
+378,3929.0,20751.0,Run Da,红灯笼,1
+379,953.0,3399.0,Red Leaves Restaurant,红叶,1

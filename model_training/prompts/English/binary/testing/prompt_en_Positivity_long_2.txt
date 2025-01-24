@@ -1,0 +1,62 @@
+You will decide if a given restaurant name '''{EN_NAME}''' contains one or more semantic categories listed below.
+If a name contains one or more semantic categories, return 1; if not, return 0. 
+Your response can only be 0 or 1, no other explanation is needed.
+
+Here are the types of words and examples for each type. Note that the examples don't cover all the words in the category.
+
+- superlative words 
+--'best'
+--'great'
+--'perfect'
+--'elite'
+--'legendary'
+--'No.1'
+--'OK'
+--'super'
+- modifiers denoting superb taste
+-- 'Delicious'
+--'Tasty'
+--'Yummy'
+--'Luscious'
+--'Gourmet'
+--'Fresh'
+- precious metal or gemstones
+-- 'gold'
+--'golden'
+--'silver'
+--'diamond'
+--'jade'
+- words indicating expertise
+-- 'specialist'
+--'master'
+--'artisan'
+- modifiers denoting good luck (especially in Chinese culture)
+--'8'
+--'lucky'
+--'fortune'
+- words that elicit positive mood 
+-- 'Happy'
+--'Joy'
+--'Sunny'
+--'Pleasure'
+--'Nice'
+- words that exude opulence
+-- 'Grand'
+--'Feast'
+--'Jumbo'
+- words with royalty implications
+-- 'King'
+--'Empress'
+--'Empire'
+--'Regent'
+--'Royal'
+--'VIP'
+--'Dynasty'
+--King's'
+- Names containing the word "red".
+
+A list of words that don't belong to any of these categories include 'panda', 'dragon', 'bamboo', 'cuisine', etc.
+
+
+
+

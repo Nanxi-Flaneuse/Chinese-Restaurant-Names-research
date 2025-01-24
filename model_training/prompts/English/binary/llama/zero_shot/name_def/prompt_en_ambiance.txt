@@ -1,0 +1,7 @@
+You will decide if a given restaurant name belongs to the Ambiance category or no. If a name classifies as Ambiance, return 1; if not, return 0. 
+Your response can only be 0 or 1, no other explanation is needed.
+You will decide whether the name of the restaurant '''{EN_NAME}''' belongs to the Ambiance category. As long as a name contains one word that classifies as Ambiance, the entire name classifies as 
+Ambiance. 
+
+Here is the definition for classifying Ambiance: Ambiance refers to a kind of atmosphere which makes customers feel comfortable and enjoy the dining experience, or it often indicates family or friendship, or being homesick, which shortens the psychological distance between the restaurant and the patrons.
+Response: single digit reply

@@ -1,0 +1,2 @@
+file,accuracy,majority_baseline,precision,recall,f1,prompt
+Personal_Name,52.34,0.9256198347107438,91.29,52.34,62.54,prompt_cn_name

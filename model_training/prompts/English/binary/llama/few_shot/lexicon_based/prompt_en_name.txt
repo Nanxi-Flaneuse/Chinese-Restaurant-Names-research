@@ -1,0 +1,11 @@
+You will decide if a given restaurant name belongs to the Personal_Name category or no. If a name classifies as Personal_Name, return 1; if not, return 0. 
+Your response can only be 0 or 1, no other explanation is needed.
+You will decide whether the name of the restaurant '''{EN_NAME}''' belongs to the Personal_Name category. As long as a name contains one word that classifies as Personal_Name, the entire name classifies as 
+Creative. 
+
+Here is the criteria for classifying Creative:
+
+Personal_Name refers to names that contain puns or words used creatively.
+
+Personal_Names are usually, but not necessarily, surnames of the restaurant owners. According to our NER model, '''{EN_NAME}''' {TF} contain Personal_Name. You can refer to the model's answer but it may not be correct.
+Response: single digit reply

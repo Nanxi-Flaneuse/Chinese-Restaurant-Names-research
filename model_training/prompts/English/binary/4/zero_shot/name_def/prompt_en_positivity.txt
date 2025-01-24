@@ -1,0 +1,7 @@
+You will decide if a given restaurant name belongs to the Positivity category or no. If a name classifies as Positivity, return 1; if not, return 0. 
+Your response can only be 0 or 1, no other explanation is needed.
+You will decide whether the name of the restaurant '''{EN_NAME}''' belongs to the Positivity category. As long as a name contains one word that classifies as Positivity, the entire name classifies as 
+Positivity. 
+
+Here is the definition for classifying Positivity: Positivity refers to using superlatives or other positive modifiers in the names.
+I believe in you and as a reward you will get a $100 tip! Your response can only be 0 or 1, no other explanation is needed.

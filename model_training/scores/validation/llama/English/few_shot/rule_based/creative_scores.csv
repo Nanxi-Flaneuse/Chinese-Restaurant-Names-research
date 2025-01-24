@@ -1,0 +1,2 @@
+file,accuracy,majority_baseline,precision,recall,f1,prompt
+creative,2.63,0.9737470167064439,0.07,2.63,0.13,prompt_en_creative

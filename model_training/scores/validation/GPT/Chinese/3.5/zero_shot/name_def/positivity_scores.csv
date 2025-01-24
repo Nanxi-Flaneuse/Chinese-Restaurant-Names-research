@@ -1,0 +1,2 @@
+file,accuracy,majority_baseline,precision,recall,f1,prompt
+Positivity,53.17,0.5013774104683195,71.96,53.17,40.28,prompt_cn_positivity

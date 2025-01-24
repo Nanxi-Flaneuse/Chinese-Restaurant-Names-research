@@ -1,0 +1,364 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q16,Q14,1_Q2,1_Q2_1_TEXT,1_Q3,2_Q2,2_Q2_1_TEXT,2_Q3,3_Q2,3_Q2_1_TEXT,3_Q3,4_Q2,4_Q2_1_TEXT,4_Q3,5_Q2,5_Q2_1_TEXT,5_Q3,6_Q2,6_Q2_1_TEXT,6_Q3,7_Q2,7_Q2_1_TEXT,7_Q3,8_Q2,8_Q2_1_TEXT,8_Q3,9_Q2,9_Q2_1_TEXT,9_Q3,10_Q2,10_Q2_1_TEXT,10_Q3,11_Q2,11_Q2_1_TEXT,11_Q3,12_Q2,12_Q2_1_TEXT,12_Q3,13_Q2,13_Q2_1_TEXT,13_Q3,14_Q2,14_Q2_1_TEXT,14_Q3,15_Q2,15_Q2_1_TEXT,15_Q3,16_Q2,16_Q2_1_TEXT,16_Q3,17_Q2,17_Q2_1_TEXT,17_Q3,18_Q2,18_Q2_1_TEXT,18_Q3,19_Q2,19_Q2_1_TEXT,19_Q3,20_Q2,20_Q2_1_TEXT,20_Q3,21_Q2,21_Q2_1_TEXT,21_Q3,22_Q2,22_Q2_1_TEXT,22_Q3,23_Q2,23_Q2_1_TEXT,23_Q3,24_Q2,24_Q2_1_TEXT,24_Q3,25_Q2,25_Q2_1_TEXT,25_Q3,26_Q2,26_Q2_1_TEXT,26_Q3,27_Q2,27_Q2_1_TEXT,27_Q3,28_Q2,28_Q2_1_TEXT,28_Q3,29_Q2,29_Q2_1_TEXT,29_Q3,30_Q2,30_Q2_1_TEXT,30_Q3,31_Q2,31_Q2_1_TEXT,31_Q3,32_Q2,32_Q2_1_TEXT,32_Q3,33_Q2,33_Q2_1_TEXT,33_Q3,34_Q2,34_Q2_1_TEXT,34_Q3,35_Q2,35_Q2_1_TEXT,35_Q3,36_Q2,36_Q2_1_TEXT,36_Q3,37_Q2,37_Q2_1_TEXT,37_Q3,38_Q2,38_Q2_1_TEXT,38_Q3,39_Q2,39_Q2_1_TEXT,39_Q3,40_Q2,40_Q2_1_TEXT,40_Q3,Q4,id,PROLIFIC_PID
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,Our survey requires that you type your answers in simplified Chinese scripts. Please exit the survey now if you can't type in simplified scripts. 请您用简体中文作答，如果您不会用简体拼写请退出问卷。如果您的回答里有繁体字我们会拒绝接受,Your prolific ID 您的prolific ID:,"[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 860 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 860 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","860 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 861 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 861 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","861 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 862 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 862 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","862 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 863 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 863 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","863 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 864 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 864 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","864 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 865 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 865 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","865 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 866 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 866 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","866 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 867 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 867 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","867 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 868 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 868 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","868 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 869 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 869 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","869 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 870 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 870 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","870 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 871 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 871 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","871 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 872 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 872 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","872 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 873 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 873 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","873 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 874 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 874 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","874 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 875 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 875 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","875 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 876 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 876 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","876 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 877 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 877 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","877 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 878 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 878 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","878 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 879 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 879 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","879 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 880 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 880 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","880 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 881 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 881 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","881 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 882 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 882 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","882 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 883 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 883 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","883 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 884 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 884 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","884 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 885 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 885 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","885 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 886 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 886 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","886 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 887 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 887 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","887 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 888 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 888 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","888 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 889 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 889 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","889 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 890 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 890 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","890 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 891 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 891 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","891 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 892 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 892 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","892 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 893 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 893 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","893 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 894 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 894 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","894 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 895 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 895 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","895 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 896 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 896 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","896 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 897 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 897 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","897 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 898 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 898 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","898 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 899 - [CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - Selected Choice","[CurrentLoopNumber] of [TotalLoops]. Please find the corresponding Chinese name of the restaurant ""[Field-3]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-3] 餐厅中文名（可以使用谷歌地图餐厅图片，360全景功能（查看使用方法），或餐厅网站）
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 (有时可能没有餐厅网站) - 899 - Enter Chinese name below 有中文名，在下面方框內输入名字（如果餐厅名字是繁体也请用简体输入） - Text","899 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接, 您可以单击带有中文名的图像，然后从浏览器复制该图像链接或复制餐厅网页的链接。 如果您使用 google 360 视图，只需复制带有餐厅中文名牌匾的链接。",Do you have any feedbacks or suggestions? 请在此留下您的任何意见或建议,id,PROLIFIC_PID
+8/11/2023 15:17:53,8/11/2023 15:41:42,0,*******,100,1428,1,8/11/2023 15:41:43,R_1gCom3sozS2vI9o,*******,*******,*******,*******,*******,*******,anonymous,EN,1,5f42d7f515c23f500bd34d57,1,川味鲜,"https://www.google.com/maps/place/Tasty+Szechuan/@37.6723447,-122.0866745,3a,46.9y,15.54h,90.45t/data=!3m6!1e1!3m4!1s430Jtb-3FtVzv5FRseDuYA!2e0!7i16384!8i8192!4m12!1m2!2m1!1sTasty+Szechuan!3m8!1s0x808f91dffb969b85:0xea6ba06df54a3063!8m2!3d37.6724686!4d-122.0866036!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11t58nq00k?entry=ttu#",1,火锅陈,"https://www.google.com/maps/place/Hot+Pot+Chen/@42.2749898,-83.7778563,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNDgEgxFOvS4TJC0WVWpYIehyM5rvCwrslsHrNn!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNDgEgxFOvS4TJC0WVWpYIehyM5rvCwrslsHrNn%3Dw114-h86-k-no!7i3264!8i2448!4m15!1m7!3m6!1s0x883cb1c5fb221ec3:0x60f05697cebb5f31!2sHot+Pot+Chen!8m2!3d42.2749898!4d-83.7778563!16s%2Fg%2F11g8v2nm0g!3m6!1s0x883cb1c5fb221ec3:0x60f05697cebb5f31!8m2!3d42.2749898!4d-83.7778563!10e5!16s%2Fg%2F11g8v2nm0g?entry=ttu#",1,明珠,"https://www.google.com/maps/place/Ming+Chu/@41.1564632,-81.2280152,3a,75y,183.01h,90t/data=!3m7!1e1!3m5!1soEnkdYKmg44EhfQa-8E0cQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DoEnkdYKmg44EhfQa-8E0cQ%26cb_client%3Dsearch.gws-prod.gps%26w%3D86%26h%3D86%26yaw%3D183.01259%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192!4m15!1m7!3m6!1s0x8831391280a75a33:0x4465202c79208a1f!2sMing+Chu!8m2!3d41.1563408!4d-81.2280212!16s%2Fg%2F1thmln2b!3m6!1s0x8831391280a75a33:0x4465202c79208a1f!8m2!3d41.1563408!4d-81.2280212!10e5!16s%2Fg%2F1thmln2b?entry=ttu#",1,老地方,"https://www.google.com/maps/place/Asian+Legend/@42.2778228,-83.7424789,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipP13zGOjYfMhxHSL1e_3JGxWkkIjR6BZtn_Allh!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP13zGOjYfMhxHSL1e_3JGxWkkIjR6BZtn_Allh%3Dw152-h86-k-no!7i3104!8i1746!4m15!1m7!3m6!1s0x883cae3f35d0ac21:0x538b0a89aeabb896!2sAsian+Legend!8m2!3d42.277695!4d-83.742448!16s%2Fg%2F1tdpsbc7!3m6!1s0x883cae3f35d0ac21:0x538b0a89aeabb896!8m2!3d42.277695!4d-83.742448!10e5!16s%2Fg%2F1tdpsbc7?entry=ttu#",1,故乡邦,"https://www.google.com/maps/place/Lynden+Mandarin+Chinese+Restaurant/@48.9442993,-122.4511545,3a,15y,274.55h,93.69t/data=!3m6!1e1!3m4!1sxQr3yessSwr4thAg573xqw!2e0!7i16384!8i8192!4m17!1m7!3m6!1s0x5485b7031d3ea0c5:0x12223d8f4cc3111e!2sLynden+Mandarin+Chinese+Restaurant!8m2!3d48.9442661!4d-122.4515023!16s%2Fg%2F1tj4b4wc!3m8!1s0x5485b7031d3ea0c5:0x12223d8f4cc3111e!8m2!3d48.9442661!4d-122.4515023!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1tj4b4wc?entry=ttu#",0,,,1,东方庭院,"https://www.google.com/maps/place/Oriental+Garden/@37.0163541,-94.7358773,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipO69KyZ_lnBZkRjx1-mQvfx2UYEVMaEF5kgrVCN!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO69KyZ_lnBZkRjx1-mQvfx2UYEVMaEF5kgrVCN%3Dw203-h270-k-no!7i3024!8i4032!4m15!1m7!3m6!1s0x87c812b0da23ec8b:0xdf1516d4b11fd34d!2sOriental+Garden!8m2!3d37.0161806!4d-94.7354736!16s%2Fg%2F1pp2vb0_h!3m6!1s0x87c812b0da23ec8b:0xdf1516d4b11fd34d!8m2!3d37.0161806!4d-94.7354736!10e5!16s%2Fg%2F1pp2vb0_h?entry=ttu#",1,幸运楼,"https://www.google.com/maps/place/Lucky+House/@39.4411529,-77.408207,23a,16.2y/data=!3m8!1e2!3m6!1sAF1QipPoi1vv3w_NWCXoZSdVGB6Ef2-O7dHJfCFDyntM!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPoi1vv3w_NWCXoZSdVGB6Ef2-O7dHJfCFDyntM%3Dw203-h360-k-no!7i2988!8i5312!4m15!1m7!3m6!1s0x89c9dac26f4e760d:0x7b4859f5f430736a!2sLucky+House!8m2!3d39.4412373!4d-77.4079904!16s%2Fg%2F1vyn4tym!3m6!1s0x89c9dac26f4e760d:0x7b4859f5f430736a!8m2!3d39.4412373!4d-77.4079904!10e5!16s%2Fg%2F1vyn4tym?entry=ttu#",0,,,1,林家园,"https://www.google.com/maps/place/Lin's+Asian+Bistro/@64.8374355,-147.7575304,3a,75y,90t/data=!3m8!1e5!3m6!1sAF1QipNrBQJognq1BNlOWCK8BnFRh0dBwRDTJjwXQVat!2e10!3e10!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNrBQJognq1BNlOWCK8BnFRh0dBwRDTJjwXQVat%3Dw152-h86-k-no!7i1920!8i1080!4m17!1m7!3m6!1s0x51325bf60b538f51:0x1828fc7f978879de!2sLin's+Asian+Bistro!8m2!3d64.8374355!4d-147.7575304!16s%2Fg%2F11l8g65rdp!3m8!1s0x51325bf60b538f51:0x1828fc7f978879de!8m2!3d64.8374355!4d-147.7575304!10e5!14m1!1BCgIgAQ!16s%2Fg%2F11l8g65rdp?entry=ttu#",1,福洋,"https://www.google.com/maps/place/New+Nagoya/@39.7116727,-104.8627156,-11a,35.6y/data=!3m8!1e2!3m6!1sAF1QipMr3o5-A9DEfbnuqAKcz9-a-glE2KOVXq9rCdlY!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMr3o5-A9DEfbnuqAKcz9-a-glE2KOVXq9rCdlY%3Dw86-h114-k-no!7i3024!8i4032!4m15!1m7!3m6!1s0x876c7d26dcf2d009:0x549bdb612d659c50!2sNew+Nagoya!8m2!3d39.7116728!4d-104.8626554!16s%2Fg%2F11b7xqw9jz!3m6!1s0x876c7d26dcf2d009:0x549bdb612d659c50!8m2!3d39.7116728!4d-104.8626554!10e5!16s%2Fg%2F11b7xqw9jz?entry=ttu",1,东苑,"https://www.google.com/maps/place/East+Garden/@43.9227632,-72.6650529,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNDCqM54p-wP0q79SRsCTBg8oTnAISnBeKMRz66!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNDCqM54p-wP0q79SRsCTBg8oTnAISnBeKMRz66%3Dw203-h270-k-no!7i2448!8i3264!4m15!1m7!3m6!1s0x4cb523d72ff2c0ed:0xfb90b2a42447810c!2sEast+Garden!8m2!3d43.9229206!4d-72.6653968!16s%2Fg%2F1tf5k7jb!3m6!1s0x4cb523d72ff2c0ed:0xfb90b2a42447810c!8m2!3d43.9229206!4d-72.6653968!10e5!16s%2Fg%2F1tf5k7jb?entry=ttu#",1,北京园,"https://www.google.com/maps/place/Beijing+Garden/@19.513284,-155.920741,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipO3v0GFfLTAwZXbDjGm4gckg0K5ZxHR4OvTfma7!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO3v0GFfLTAwZXbDjGm4gckg0K5ZxHR4OvTfma7%3Dw152-h86-k-no!7i4032!8i2268!4m10!1m2!2m1!1sBeijing+Garden!3m6!1s0x795406e9f1e315a3:0x57a66506ae8dc0c2!8m2!3d19.513284!4d-155.920741!10e5!16s%2Fg%2F11ckkxy02f?entry=ttu#",1,盛园,"https://www.google.com/maps/place/Tsim+Yung+Chinese+Restaurant/@38.8286178,-77.0588596,17a,56.5y/data=!3m8!1e2!3m6!1sAF1QipOMamnegZwF0rSmNi0_jnSyW5uFmvIO67B5ZG4Q!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOMamnegZwF0rSmNi0_jnSyW5uFmvIO67B5ZG4Q%3Dw86-h114-k-no!7i3024!8i4032!4m10!1m2!2m1!1sTsim+Yung+Chinese+Restaurant!3m6!1s0x89b7b1bf1502a6ff:0x4b88f6c7fe6d8031!8m2!3d38.8286178!4d-77.0588596!10e5!16s%2Fg%2F11qm1h8fzm?entry=ttu#",0,,,1,看不清,"https://www.google.com/maps/place/Sun+Sing+House/@38.7236737,-90.3585527,3a,15y,307.65h,96.53t/data=!3m7!1e1!3m5!1si1jSmUW4amc6CTTMQVlmTA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Di1jSmUW4amc6CTTMQVlmTA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D305.3827%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192!4m17!1m7!3m6!1s0x87df34170e158b25:0x2acbdf169bf7d4a8!2sSun+Sing+House!8m2!3d38.7239218!4d-90.3589938!16s%2Fg%2F1vwlpp97!3m8!1s0x87df34170e158b25:0x2acbdf169bf7d4a8!8m2!3d38.7239218!4d-90.3589938!10e5!14m1!1BCgIgAQ!16s%2Fg%2F1vwlpp97?entry=ttu",1,嘉裕,"https://www.google.com/maps/place/China+Garden+Restaurant/@37.9268794,-121.6911215,20a,51.6y/data=!3m8!1e2!3m6!1sAF1QipM9s_h3AGLJXldQrmKsP0QJfCqRqi77aYLCehS8!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM9s_h3AGLJXldQrmKsP0QJfCqRqi77aYLCehS8%3Dw86-h152-k-no!7i1080!8i1920!4m10!1m2!2m1!1sChina+Garden+Restaurant!3m6!1s0x808ffe974676f27b:0xbbba1f2628bd0311!8m2!3d37.9269082!4d-121.691033!10e5!16s%2Fg%2F119x4z7vj?entry=ttu#",1,华城,"https://www.google.com/maps/place/China+City/@42.3154607,-75.3931116,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNUxvbhIEwGYvLTV7Dk7KDHTRaRHCRYuSMWXdbs!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNUxvbhIEwGYvLTV7Dk7KDHTRaRHCRYuSMWXdbs%3Dw114-h86-k-no!7i4032!8i3024!4m10!1m2!2m1!1sChina+City!3m6!1s0x89dba399b409d47b:0xf4763bb30423449f!8m2!3d42.3154607!4d-75.3931116!10e5!16s%2Fg%2F11hzxk4zjz?entry=ttu#",0,,,0,,,0,,,1,雅叙园,"https://www.google.com/maps/place/Chef+Lee's+Mandarin+House/@36.5959335,-121.8656312,9a,54.2y/data=!3m8!1e2!3m6!1sAF1QipN85ikGiTgUWah7D-TMAzl9IfiMjwhWVbco8L7K!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN85ikGiTgUWah7D-TMAzl9IfiMjwhWVbco8L7K%3Dw222-h100-k-no!7i4000!8i1800!4m17!1m7!3m6!1s0x808de45248f2079b:0x8120fc85a828c75!2sChef+Lee's+Mandarin+House!8m2!3d36.5959335!4d-121.8660437!16s%2Fg%2F1tg5v8h6!3m8!1s0x808de45248f2079b:0x8120fc85a828c75!8m2!3d36.5959335!4d-121.8660437!10e5!14m1!1BCgIgARICGAI!16s%2Fg%2F1tg5v8h6?entry=ttu#",1,华庭海鲜馆,"https://www.google.com/maps/place/Cachanilla+Chinese+Restaurant/@34.0626271,-117.7459295,3a,24.9y,77.21h,100.41t/data=!3m6!1e1!3m4!1skMYU8WIiRrxzeWq9i66NTw!2e0!7i16384!8i8192!4m17!1m7!3m6!1s0x80c32dfc7bc5d58b:0xee6ea42dd1a50630!2sCachanilla+Chinese+Restaurant!8m2!3d34.0629257!4d-117.7456429!16s%2Fg%2F11bw7d5lhq!3m8!1s0x80c32dfc7bc5d58b:0xee6ea42dd1a50630!8m2!3d34.0629257!4d-117.7456429!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11bw7d5lhq?entry=ttu#",1,国味,"https://www.google.com/maps/place/China+Taste/@41.4144053,-73.6675595,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOxL4xS6uPWWBEumKf0oyGj24zm2aEAbC7cuwZl!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOxL4xS6uPWWBEumKf0oyGj24zm2aEAbC7cuwZl%3Dw203-h152-k-no!7i3264!8i2448!4m10!1m2!2m1!1sChina+Taste!3m6!1s0x89dd4d773ede532b:0xa0f511adfc08454!8m2!3d41.4145745!4d-73.6674204!10e5!16s%2Fg%2F1ttdnz_0?entry=ttu#",0,,,1,麟园,"https://www.google.com/maps/place/New+Oriental+Gourmet+Kitchen/@40.7517842,-74.1568654,3a,102.4y,90t/data=!3m8!1e2!3m6!1sAF1QipPDjX857GxcYPcj-szn_UJDDWCnX0GnAAiQ4xcV!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPDjX857GxcYPcj-szn_UJDDWCnX0GnAAiQ4xcV%3Dw129-h86-k-no!7i750!8i500!4m15!1m7!3m6!1s0x89c255f3a88c00c3:0xc3d6bba557fbb777!2sNew+Oriental+Gourmet+Kitchen!8m2!3d40.7517842!4d-74.1568654!16s%2Fg%2F11qm089clv!3m6!1s0x89c255f3a88c00c3:0xc3d6bba557fbb777!8m2!3d40.7517842!4d-74.1568654!10e5!16s%2Fg%2F11qm089clv?entry=ttu#",0,,,0,,,0,,,1,长城,"https://www.google.com/maps/place/Great+Wall+of+China/@41.6389204,-88.2047478,3a,40.1y,326.04h,90.59t/data=!3m6!1e1!3m4!1sKSx9D3q4yQctznLf766prA!2e0!7i16384!8i8192!4m12!1m2!2m1!1sGreat+Wall+of+China!3m8!1s0x880ef5b2574ea655:0x99395ecbbf523807!8m2!3d41.6390538!4d-88.2048518!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1tdy51bx?entry=ttu#",0,,,1,粤茵美食,"https://www.google.com/maps/place/Yue+Yan+Chinese+Food+Boutique/@34.2946861,-118.8439096,-1a,23.3y/data=!3m8!1e2!3m6!1sAF1QipO-SVOR_LKdgiw85X2wrogP3qEVkE-nOD7RBjW_!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO-SVOR_LKdgiw85X2wrogP3qEVkE-nOD7RBjW_%3Dw203-h152-k-no!7i4032!8i3024!4m15!1m7!3m6!1s0x80e82def68c02aed:0x7d6f4a1fae2f5ca3!2sYue+Yan+Chinese+Food+Boutique!8m2!3d34.2948403!4d-118.8439337!16s%2Fg%2F11df0n52p0!3m6!1s0x80e82def68c02aed:0x7d6f4a1fae2f5ca3!8m2!3d34.2948403!4d-118.8439337!10e5!16s%2Fg%2F11df0n52p0?entry=ttu",0,,,1,新湘园,"https://www.google.com/maps/place/China+King/@40.9481901,-73.8765274,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOLXFzanM5CewVtYFj0D2dJlkn_ItLtBeFMGcx3!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOLXFzanM5CewVtYFj0D2dJlkn_ItLtBeFMGcx3%3Dw203-h270-k-no!7i3024!8i4032!4m10!1m2!2m1!1sChina+King!3m6!1s0x89c2ed6fe769e339:0x28dfe627cd06d1a1!8m2!3d40.9481944!4d-73.8767996!10e5!16s%2Fg%2F1tknlckg?entry=ttu#",0,,,0,,,1,兴龙,"https://www.google.com/maps/place/China+King/@34.8048985,-78.9593223,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPz1a40JmAn_aJBm48tlAWtAM-7ar6fErbS1IG_!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPz1a40JmAn_aJBm48tlAWtAM-7ar6fErbS1IG_%3Dw152-h86-k-no!7i4032!8i2268!4m10!1m2!2m1!1sChina+King!3m6!1s0x89ab1933d8fe51c9:0x1b296d6ed199996a!8m2!3d34.8048547!4d-78.9591614!10e5!16s%2Fg%2F1tdwlchp?entry=ttu#",0,,,1,佳美,"https://www.google.com/maps/place/Jia+Mei+Asian+Kitchen/@41.2829929,-72.5938498,15a,50.2y/data=!3m8!1e2!3m6!1sAF1QipMdyQ3I1uC2z1gSY933dKA-yyypohyN5Xj9uNU!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMdyQ3I1uC2z1gSY933dKA-yyypohyN5Xj9uNU%3Dw203-h270-k-no!7i3024!8i4032!4m17!1m7!3m6!1s0x89e62947b7c99dfd:0xdfbd8346f5e1d5b5!2sJia+Mei+Asian+Kitchen!8m2!3d41.2833067!4d-72.5937536!16s%2Fg%2F1hm3vw1bm!3m8!1s0x89e62947b7c99dfd:0xdfbd8346f5e1d5b5!8m2!3d41.2833067!4d-72.5937536!10e5!14m1!1BCgIgAQ!16s%2Fg%2F1hm3vw1bm?entry=ttu#",0,,,,860,5f42d7f515c23f500bd34d57
+8/11/2023 16:56:19,8/11/2023 17:28:45,0,*******,100,1946,1,8/11/2023 17:28:46,R_3sBOe8zPR6niHZL,*******,*******,*******,*******,*******,*******,anonymous,EN,1,606b197a43dfda2edcd80803,1,川味鲜,"https://www.google.com/maps/place/Tasty+Szechuan/@37.6723447,-122.0866745,3a,36.6y,13.92h,91.98t/data=!3m7!1e1!3m5!1s430Jtb-3FtVzv5FRseDuYA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D430Jtb-3FtVzv5FRseDuYA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D11.503331%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192!4m12!1m2!2m1!1sTasty+Szechuan!3m8!1s0x808f91dffb969b85:0xea6ba06df54a3063!8m2!3d37.6724686!4d-122.0866036!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11t58nq00k?entry=ttu",1,火融餗,"https://www.google.com/maps/place/Hot+Pot+Chen/@42.2749898,-83.7776258,3a,32.2y/data=!3m8!1e2!3m6!1sAF1QipNDgEgxFOvS4TJC0WVWpYIehyM5rvCwrslsHrNn!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNDgEgxFOvS4TJC0WVWpYIehyM5rvCwrslsHrNn%3Dw114-h86-k-no!7i3264!8i2448!4m15!1m7!3m6!1s0x883cb1c5fb221ec3:0x60f05697cebb5f31!2sHot+Pot+Chen!8m2!3d42.2749898!4d-83.7778563!16s%2Fg%2F11g8v2nm0g!3m6!1s0x883cb1c5fb221ec3:0x60f05697cebb5f31!8m2!3d42.2749898!4d-83.7778563!10e5!16s%2Fg%2F11g8v2nm0g?entry=ttu",1,明珠,"https://www.google.com/maps/place/Ming+Chu/@41.1564632,-81.2280152,3a,75y,207.42h,97.87t/data=!3m7!1e1!3m5!1soEnkdYKmg44EhfQa-8E0cQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DoEnkdYKmg44EhfQa-8E0cQ%26cb_client%3Dsearch.gws-prod.gps%26w%3D86%26h%3D86%26yaw%3D183.01259%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192!4m15!1m7!3m6!1s0x8831391280a75a33:0x4465202c79208a1f!2sMing+Chu!8m2!3d41.1563408!4d-81.2280212!16s%2Fg%2F1thmln2b!3m6!1s0x8831391280a75a33:0x4465202c79208a1f!8m2!3d41.1563408!4d-81.2280212!10e5!16s%2Fg%2F1thmln2b?entry=ttu",1,老地方,"https://www.google.com/maps/place/Asian+Legend/@42.277695,-83.742448,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPXbAKM4Ae35XCgmN9wAbf2jO5WP5AEdyEXY1d8!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPXbAKM4Ae35XCgmN9wAbf2jO5WP5AEdyEXY1d8%3Dw203-h270-k-no!7i3024!8i4032!4m17!1m7!3m6!1s0x883cae3f35d0ac21:0x538b0a89aeabb896!2sAsian+Legend!8m2!3d42.277695!4d-83.742448!16s%2Fg%2F1tdpsbc7!3m8!1s0x883cae3f35d0ac21:0x538b0a89aeabb896!8m2!3d42.277695!4d-83.742448!10e5!14m1!1BCgIYIQ!16s%2Fg%2F1tdpsbc7?entry=ttu",1,故乡邚,"https://www.google.com/maps/place/Lynden+Mandarin+Chinese+Restaurant/@48.9442661,-122.4515023,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNgCBfJut1nM4OifxYk8bz-0vHID4lUNFtplTgi!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNgCBfJut1nM4OifxYk8bz-0vHID4lUNFtplTgi%3Dw203-h270-k-no!7i3024!8i4032!4m17!1m7!3m6!1s0x5485b7031d3ea0c5:0x12223d8f4cc3111e!2sLynden+Mandarin+Chinese+Restaurant!8m2!3d48.9442661!4d-122.4515023!16s%2Fg%2F1tj4b4wc!3m8!1s0x5485b7031d3ea0c5:0x12223d8f4cc3111e!8m2!3d48.9442661!4d-122.4515023!10e5!14m1!1BCgIgARICGAI!16s%2Fg%2F1tj4b4wc?entry=ttu",1,中华,"https://www.google.com/maps/place/Great+China/@40.3165611,-76.0011866,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOnfuHf9S3W70_J2ygKIF2qz29fxKnWd7tuyH8u!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOnfuHf9S3W70_J2ygKIF2qz29fxKnWd7tuyH8u%3Dw203-h270-k-no!7i3024!8i4032!4m10!1m2!2m1!1sGreat+China!3m6!1s0x89c673d08162d339:0x480daa89b7d7ec79!8m2!3d40.3166533!4d-76.0011674!10e5!16s%2Fg%2F1tmk9fwf?entry=ttu",1,东方庭院,"https://www.google.com/maps/place/Oriental+Garden/@37.0163541,-94.7358773,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipO69KyZ_lnBZkRjx1-mQvfx2UYEVMaEF5kgrVCN!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO69KyZ_lnBZkRjx1-mQvfx2UYEVMaEF5kgrVCN%3Dw203-h270-k-no!7i3024!8i4032!4m15!1m7!3m6!1s0x87c812b0da23ec8b:0xdf1516d4b11fd34d!2sOriental+Garden!8m2!3d37.0161806!4d-94.7354736!16s%2Fg%2F1pp2vb0_h!3m6!1s0x87c812b0da23ec8b:0xdf1516d4b11fd34d!8m2!3d37.0161806!4d-94.7354736!10e5!16s%2Fg%2F1pp2vb0_h?entry=ttu",1,幸运搂,"https://www.google.com/maps/place/Lucky+House/@39.4412036,-77.4080172,3a,75y,32.23h,103.45t/data=!3m6!1e1!3m4!1sroYXC4RJRAmMsI2E0Jfm5g!2e0!7i16384!8i8192!4m17!1m7!3m6!1s0x89c9dac26f4e760d:0x7b4859f5f430736a!2sLucky+House!8m2!3d39.4412373!4d-77.4079904!16s%2Fg%2F1vyn4tym!3m8!1s0x89c9dac26f4e760d:0x7b4859f5f430736a!8m2!3d39.4412373!4d-77.4079904!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1vyn4tym?entry=ttu",0,,,1,林家园,"https://www.google.com/maps/place/Lin's+Asian+Bistro/@64.8369705,-147.7575811,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPbkmGx3CCVgiaoeIRJUoyp3qTk_8XGkxSR1SWU!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPbkmGx3CCVgiaoeIRJUoyp3qTk_8XGkxSR1SWU%3Dw203-h270-k-no!7i3024!8i4032!4m15!1m7!3m6!1s0x51325bf60b538f51:0x1828fc7f978879de!2sLin's+Asian+Bistro!8m2!3d64.8374355!4d-147.7575304!16s%2Fg%2F11l8g65rdp!3m6!1s0x51325bf60b538f51:0x1828fc7f978879de!8m2!3d64.8374355!4d-147.7575304!10e5!16s%2Fg%2F11l8g65rdp?entry=ttu",1,名古屋,"https://www.google.com/maps/place/New+Nagoya/@39.7116728,-104.8623069,3a,39.5y/data=!3m8!1e2!3m6!1sAF1QipM8unXtjfAqLAF2TdV4SRf5H5QvEX2rA4t_QwCm!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipM8unXtjfAqLAF2TdV4SRf5H5QvEX2rA4t_QwCm%3Dw203-h132-k-no!7i3900!8i2550!4m17!1m7!3m6!1s0x876c7d26dcf2d009:0x549bdb612d659c50!2sNew+Nagoya!8m2!3d39.7116728!4d-104.8626554!16s%2Fg%2F11b7xqw9jz!3m8!1s0x876c7d26dcf2d009:0x549bdb612d659c50!8m2!3d39.7116728!4d-104.8626554!10e5!14m1!1BCgIYIQ!16s%2Fg%2F11b7xqw9jz?entry=ttu",0,,,1,北京园,"https://www.google.com/maps/place/Beijing+Garden/@19.513284,-155.9205709,3a,33.1y/data=!3m8!1e2!3m6!1sAF1QipO3v0GFfLTAwZXbDjGm4gckg0K5ZxHR4OvTfma7!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO3v0GFfLTAwZXbDjGm4gckg0K5ZxHR4OvTfma7%3Dw152-h86-k-no!7i4032!8i2268!4m10!1m2!2m1!1sBeijing+Garden!3m6!1s0x795406e9f1e315a3:0x57a66506ae8dc0c2!8m2!3d19.513284!4d-155.920741!10e5!16s%2Fg%2F11ckkxy02f?entry=ttu",1,暹园,"https://www.google.com/maps/place/Tsim+Yung+Chinese+Restaurant/@38.8286178,-77.0588596,3a,75y/data=!3m8!1e2!3m6!1sAF1QipOMamnegZwF0rSmNi0_jnSyW5uFmvIO67B5ZG4Q!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOMamnegZwF0rSmNi0_jnSyW5uFmvIO67B5ZG4Q%3Dw86-h114-k-no!7i3024!8i4032!4m10!1m2!2m1!1sTsim+Yung+Chinese+Restaurant!3m6!1s0x89b7b1bf1502a6ff:0x4b88f6c7fe6d8031!8m2!3d38.8286178!4d-77.0588596!10e5!16s%2Fg%2F11qm1h8fzm?entry=ttu",0,,,0,,,1,嘉裕,"https://www.google.com/maps/place/China+Garden+Restaurant/@37.9267777,-121.6912222,3a,55.9y,50.1h,95.1t/data=!3m6!1e1!3m4!1sn0tFZ4UqenEb4AvCwkadEg!2e0!7i16384!8i8192!4m12!1m2!2m1!1sChina+Garden+Restaurant!3m8!1s0x808ffe974676f27b:0xbbba1f2628bd0311!8m2!3d37.9269082!4d-121.691033!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F119x4z7vj?entry=ttu",1,华城,"https://www.google.com/maps/place/China+City/@42.3154607,-75.3933792,4a,23.3y/data=!3m8!1e2!3m6!1sAF1QipNUxvbhIEwGYvLTV7Dk7KDHTRaRHCRYuSMWXdbs!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNUxvbhIEwGYvLTV7Dk7KDHTRaRHCRYuSMWXdbs%3Dw114-h86-k-no!7i4032!8i3024!4m10!1m2!2m1!1sChina+City!3m6!1s0x89dba399b409d47b:0xf4763bb30423449f!8m2!3d42.3154607!4d-75.3931116!10e5!16s%2Fg%2F11hzxk4zjz?entry=ttu",0,,,0,,,1,亚洲园,"https://www.google.com/maps/place/Asian+Garden/@43.8577284,-79.407139,3a,31.5y/data=!3m8!1e2!3m6!1sAF1QipPMO66MjNEqv3hDc0oy_zOQVon4YB_H2wesjNvr!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPMO66MjNEqv3hDc0oy_zOQVon4YB_H2wesjNvr%3Dw114-h86-k-no!7i2358!8i1768!4m7!3m6!1s0x882b2b1722afe133:0xef541b93a8344591!8m2!3d43.8577284!4d-79.4068412!10e5!16s%2Fg%2F1tf9z146?entry=ttu",1,雅叙园,"https://www.google.com/maps/place/Chef+Lee's+Mandarin+House/@36.5959335,-121.8656415,5a,15.9y/data=!3m8!1e2!3m6!1sAF1QipN85ikGiTgUWah7D-TMAzl9IfiMjwhWVbco8L7K!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN85ikGiTgUWah7D-TMAzl9IfiMjwhWVbco8L7K%3Dw222-h100-k-no!7i4000!8i1800!4m17!1m7!3m6!1s0x808de45248f2079b:0x8120fc85a828c75!2sChef+Lee's+Mandarin+House!8m2!3d36.5959335!4d-121.8660437!16s%2Fg%2F1tg5v8h6!3m8!1s0x808de45248f2079b:0x8120fc85a828c75!8m2!3d36.5959335!4d-121.8660437!10e5!14m1!1BCgIgARICGAI!16s%2Fg%2F1tg5v8h6?entry=ttu",1,华庭海鲜馆,"https://www.google.com/maps/place/Cachanilla+Chinese+Restaurant/@34.0630578,-117.7457815,12a,39.8y/data=!3m8!1e2!3m6!1sAF1QipNw9-LahI_AwMuKrwiHUYdaoRGG4t6CvMKGxRKK!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNw9-LahI_AwMuKrwiHUYdaoRGG4t6CvMKGxRKK%3Dw203-h270-k-no!7i3024!8i4032!4m15!1m7!3m6!1s0x80c32dfc7bc5d58b:0xee6ea42dd1a50630!2sCachanilla+Chinese+Restaurant!8m2!3d34.0629257!4d-117.7456429!16s%2Fg%2F11bw7d5lhq!3m6!1s0x80c32dfc7bc5d58b:0xee6ea42dd1a50630!8m2!3d34.0629257!4d-117.7456429!10e5!16s%2Fg%2F11bw7d5lhq?entry=ttu",1,国味,"https://www.google.com/maps/place/China+Taste/@41.4145745,-73.6678569,20a,23.6y/data=!3m8!1e2!3m6!1sAF1QipPUdNz0EQ26BXGcAuVEhix2mBpuD8J3Ah-idJz4!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPUdNz0EQ26BXGcAuVEhix2mBpuD8J3Ah-idJz4%3Dw203-h270-k-no!7i2448!8i3264!4m10!1m2!2m1!1sChina+Taste!3m6!1s0x89dd4d773ede532b:0xa0f511adfc08454!8m2!3d41.4145745!4d-73.6674204!10e5!16s%2Fg%2F1ttdnz_0?entry=ttu",0,,,1,麟园,"https://www.google.com/maps/place/New+Oriental+Gourmet+Kitchen/@40.7514505,-74.1568079,3a,15y,357.77h,91.86t/data=!3m6!1e1!3m4!1sEwmQJYJTphWAPlCcqB-3Aw!2e0!7i16384!8i8192!4m17!1m7!3m6!1s0x89c255f3a88c00c3:0xc3d6bba557fbb777!2sNew+Oriental+Gourmet+Kitchen!8m2!3d40.7517842!4d-74.1568654!16s%2Fg%2F11qm089clv!3m8!1s0x89c255f3a88c00c3:0xc3d6bba557fbb777!8m2!3d40.7517842!4d-74.1568654!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F11qm089clv?entry=ttu",0,,,0,,,0,,,1,长城,"https://www.google.com/maps/place/Great+Wall+of+China/@41.6389204,-88.2047478,3a,41.9y,323.58h,92.33t/data=!3m7!1e1!3m5!1sKSx9D3q4yQctznLf766prA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DKSx9D3q4yQctznLf766prA%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D328.2642%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192!4m12!1m2!2m1!1sGreat+Wall+of+China!3m8!1s0x880ef5b2574ea655:0x99395ecbbf523807!8m2!3d41.6390538!4d-88.2048518!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1tdy51bx?entry=ttu",0,,,1,粤薗,"https://www.google.com/maps/place/Yue+Yan+Chinese+Food+Boutique/@34.2948403,-118.8441442,-15a,18.4y/data=!3m8!1e2!3m6!1sAF1QipO4ETt8rXO4NXHEatcwzsLmLYsMTuPX5QOGjXTu!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO4ETt8rXO4NXHEatcwzsLmLYsMTuPX5QOGjXTu%3Dw203-h270-k-no!7i3024!8i4032!4m18!1m8!3m7!1s0x80e82def68c02aed:0x7d6f4a1fae2f5ca3!2sYue+Yan+Chinese+Food+Boutique!8m2!3d34.2948403!4d-118.8439337!10e5!16s%2Fg%2F11df0n52p0!3m8!1s0x80e82def68c02aed:0x7d6f4a1fae2f5ca3!8m2!3d34.2948403!4d-118.8439337!10e5!14m1!1BCg0KCS9tLzAxdzUzYjAB!16s%2Fg%2F11df0n52p0?entry=ttu",0,,,1,新湘园,"https://www.google.com/maps/place/China+King/@40.9481901,-73.8768667,22a,35.2y/data=!3m8!1e2!3m6!1sAF1QipN3sg3D0g-pD3gKk2u4_l0JM5Q5u0-2iyrB7rdZ!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN3sg3D0g-pD3gKk2u4_l0JM5Q5u0-2iyrB7rdZ%3Dw203-h270-k-no!7i3024!8i4032!4m10!1m2!2m1!1sChina+King!3m6!1s0x89c2ed6fe769e339:0x28dfe627cd06d1a1!8m2!3d40.9481944!4d-73.8767996!10e5!16s%2Fg%2F1tknlckg?entry=ttu",0,,,1,皇家,"https://www.google.com/maps/place/China+King/@42.4926888,-83.5187963,3a,32.8y/data=!3m8!1e2!3m6!1sAF1QipNWkBrbny4XsxjSW6HOBjT0VSjrBTRO0CV9ZBJk!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNWkBrbny4XsxjSW6HOBjT0VSjrBTRO0CV9ZBJk%3Dw203-h152-k-no!7i4032!8i3024!4m12!1m2!2m1!1sChina+King!3m8!1s0x8824a8da292cba1d:0x71d87700438f908a!8m2!3d42.4926888!4d-83.5190776!10e5!14m1!1BCgIYIQ!16s%2Fg%2F1tgq786v?entry=ttu",1,兴龙,"https://www.google.com/maps/place/China+King/@34.8048985,-78.959441,3a,23.7y/data=!3m8!1e2!3m6!1sAF1QipPz1a40JmAn_aJBm48tlAWtAM-7ar6fErbS1IG_!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPz1a40JmAn_aJBm48tlAWtAM-7ar6fErbS1IG_%3Dw152-h86-k-no!7i4032!8i2268!4m10!1m2!2m1!1sChina+King!3m6!1s0x89ab1933d8fe51c9:0x1b296d6ed199996a!8m2!3d34.8048547!4d-78.9591614!10e5!16s%2Fg%2F1tdwlchp?entry=ttu",0,,,1,隹美,"https://www.google.com/maps/place/Jia+Mei+Asian+Kitchen/@41.2829743,-72.5938044,3a,15y,54.61h,83.69t/data=!3m6!1e1!3m4!1s9KbiisgdRL_c6SlKiFeKuA!2e0!7i16384!8i8192!4m18!1m8!3m7!1s0x89e62947b7c99dfd:0xdfbd8346f5e1d5b5!2sJia+Mei+Asian+Kitchen!8m2!3d41.2833067!4d-72.5937536!10e5!16s%2Fg%2F1hm3vw1bm!3m8!1s0x89e62947b7c99dfd:0xdfbd8346f5e1d5b5!8m2!3d41.2833067!4d-72.5937536!10e5!14m1!1BCgIgARICCAI!16s%2Fg%2F1hm3vw1bm?entry=ttu",0,,,,860,606b197a43dfda2edcd80803

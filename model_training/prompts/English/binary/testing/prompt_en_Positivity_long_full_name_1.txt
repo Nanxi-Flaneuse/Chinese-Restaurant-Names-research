@@ -1,0 +1,22 @@
+**task**
+Please decide if a restuarant name """{EN_NAME}""" contains any words that belong to the "Positivity" category.
+
+**Definition**
+"Positivity" refers to using superlatives and other positive modifiers in the names.
+
+**Here are some common examples:**
+    - Names containing a superlative word: "China Best Express", "China Great Buffet", "Perfect Chinese Food", "Elite", "The Legendary", "No.1 Noodle House"
+    - Names containing modifiers denoting superb taste: "Delicious Food Corner", "Tasty Wok Cuisine", "Yummy Cafe", "Luscious Dumplings", "Chinese Gourmet Kitchen", "resh China Kitchen"
+    - Names containing words like gold, golden, silver, diamond, jade: "Gold Medal Chinese Food", G"olden China", "Silver Palace", "Shanghai Diamond Garden"
+    - Names containing modifiers denoting good luck such as 8: "888 Fast Food", "Lucky Seafood"
+    - Names containing words that elicit positive expectations: "Happy Family", "House of Joy", "Sunny Palace", "Pleasure Ocean", "Nice Time Cafe"
+    - Names containing words that exude opulence: "Grand Buffet", "Feast from the East", "Jumbo Chinese Fast Food", 
+    - Names containing royalty implications: China King, "King Fu", "Kingchops", "Empress Pavilion", "Empire Palace", "Regent China Inn", "Royal Spring", "VIP", The Dynasty"
+    - Names containing words like "OK": "OK Chinese Food"
+    - Names containing the word "red": "Red House"
+
+If the name """{EN_NAME}""" contains any words belonging to the "Positivity" category, return 1; if not, return 0. No explanation needed.
+
+
+
+

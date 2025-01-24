@@ -1,0 +1,12 @@
+Your task is to translate the names of Chinese restaurants from Chinese to English.
+Here are some examples:
+        '西海楼' 'West Sea House'
+        '福满楼' 'Luck Full House'
+        '锦灿' 'Golden Splendor'
+        '二舅烤肉' 'Second Uncle Barbecue'
+        '明苑阁' 'Bright Garden Pavillion'
+        '川香园' 'Sichuan Fragrant Garden'
+        '那家老院子' 'Na's Old Yard'
+        '芳芳小食' 'Fang Fang Snacks'
+Make sure to refer to these examples when you do the translation.
+Give me the literal english translation of the Chinese restaurant name """{CN_NAME}""". Only return the english translations and don't return the Chinese names. No explanation needed. No double or single quotes needed.

@@ -1,0 +1,101 @@
+,level_0,Unnamed: 0,index,English_Name,Chinese_Name,Literal_Translation,Dish Type,Creative Translation (1 = yes),Rating,Category_EN_1,Category_EN_2,Category_EN_3,Category_CH_1,Category_CH_2,Category_CH_3,Translation(Literal = 1),Address,Area,Website,Order Website,Metric 1 Retain Meanings,Metric 2 Similarities,Metric 3 Creativity,embedding_similarity
+0,0,0,0,Shanghai Cuisine,上海小馆,Shanghai Bistro,Shanghai,0,4.4,Location,,,Location,Ambiance,,0,"11 Pine St, Waltham, MA",Urban,https://www.shanghaicuisineorder.com/,,0.5,0.5,0,0.6395
+1,1,1,1,Shanghai Fresh,十八鲜,Eighteen Fresh,Shanghai,0,4.0,Location,Positivity,,Positivity,,,0,"735 Massachusetts Ave, Cambridge, MA 02139",Urban,https://www.shanghaifreshcambridge.com/,,1.0,0.5,1,0.4997
+2,2,2,2,Kao Barbecue,久经烤焰,Roasted for a Long Time,Barbecue,0,3.6,Romanized,,,Pun_Creative,Specialty,,0,"85 Harvard Ave, Boston, MA 02134",Urban,,,0.0,0.0,1,0.2771
+3,3,3,3,Taiwan Cafe ,海之味,Taste of the Sea,Taiwan,0,3.8,Location,,,Specialty,,,0,"34 Oxford St, Boston, MA",Urban,https://ordertaiwancafe.com/,,0.0,0.0,1,0.1995
+4,4,4,4,Hunan Cuisine ,异国他湘,Alien Country Other Hunan,Hunan,0,4.5,Location,,,Location,Pun_Creative,,0,"45 Beach St, Boston, MA",Urban,,,0.5,0.5,0,0.6484
+5,5,5,5,House of Chang,藤王馔,Wine King Delicacy,Fusion,0,4.2,Names,Ambiance,,Positivity,,,0,"282 Concord Ave, Cambridge, MA 02138",Urban,https://houseofchangcambridge.com/,,0.0,0.0,2,0.1767
+6,6,6,6,Bun's House,四川冒菜,Sichuan Instant Boiled Spicy Hot Pot,Sichuan,0,3.7,Location,Ambiance,,Location,Specialty,,0,"338 Ferry St, Everett, MA",Urban,https://order.bunshouseeverettma.com/menu,,0.5,0.3333333333333333,1,0.0169
+7,7,7,7,KungFu MalaTang,汤功夫麻辣烫·麻辣拌,Soup Kunfu Spicy Hot Pot,Sichuan,0,4.1,Culture,Specialty,,Specialty,Culture,,1,"155 Brighton Ave, Allston, MA 02134",Urban,http://www.kungfumalatang.com/,,1.0,1.0,0,0.4391
+8,8,8,8,Spicy World,大舌头,Big Tongue,Sichuan,0,3.0,Ambiance,Specialty,,Other,,,0,"7 Beach St, Boston, MA",Urban,https://www.spicyworldboston.com/,,0.0,0.0,2,0.3602
+9,9,9,9,Flame Hot Pot & Sushi,一品川,A Taste of Sichuan,Sichuan,0,3.6,Specialty,,,Location,,,0,"1001 Massachusetts Ave, Cambridge, MA 02138",Urban,https://www.flameasian.com/,,0.0,0.0,1,0.2203
+10,10,10,10,Boston Soup Dumplings,烹小鲜,Cook Little Fresh,Fusion,0,4.8,Location,Positivity,Specialty,Positivity,,,0,"113 Brighton Ave, Boston, MA 02134",Urban,https://www.bostonsoupdumplings.com/,,1.0,0.3333333333333333,2,0.3414
+11,11,11,11,Six Po Hot Pot,六婆串串香,Six Auntie Skewers Delicious,Sichuan,0,4.1,Names,Specialty,,Names,Specialty,Positivity,0,"1353 Beacon St, Brookline, MA",Urban,http://www.sixpousa.com/,,0.6666666666666666,0.6666666666666666,0,0.3310
+12,12,12,12,Kaojiu Restaurant,烤究,Study of Roasting,Barbecue,0,4.1,Romanized,,,Pun_Creative,Specialty,,0,"406 Harvard Street , Brookline, MA",Urban,https://www.kaojiurestaurant.com/,,0.0,0.0,1,0.1283
+13,13,13,13,Tasty Pot,味鼎,Taste Tripod,hotpot,0,4.2,Positivity,,,Positivity,,,1,"194 Harvard Ave, Boston, MA",Urban,http://www.tastypotboston.com/,,1.0,1.0,0,0.3061
+14,14,14,14,Golden Garden,金山饭店,Golden Mountain Restaurant,Northeastern,0,4.0,Ambiance,Positivity,,Positivity,,,0,"9 Highland Ave, Malden, MA",Urban,https://www.goldengardenmalden.com/,,1.0,0.5,1,0.5795
+15,15,15,15,Taste House,百味轩,Hundred Taste Pavillion,Fusion,0,4.9,Ambiance,,,Positivity,Ambiance,,0,"275 Moody St, Waltham, MA",Urban,,https://order.mealkeyway.com/merchant/6b376f51364d44624b33745964786e6761545a6543673d3d/main,0.5,0.5,0,0.5448
+16,16,16,16,Sumiao Hunan Kitchen,素描湘,Sketch Hunnan,Hunan,0,4.2,Location,Romanized,Ambiance,Location,,,0,"270 Third St, Cambridge, MA 02142",Urban,http://www.sumiaohunan.com/,,1.0,0.3333333333333333,2,0.1941
+17,17,17,17,District Kitchen,饺子馆,Dumpling Pavillion,Fusion,0,4.3,Ambiance,,,Specialty,Ambiance,,0,"2 Florence St, Malden, MA 02148",Urban,https://www.district-kitchen.com/,,0.5,0.5,0,0.2332
+18,18,18,18,BOS' SiChuan Taste,一碟川菜馆,One Plate Sichuan Cuisine Restaurant,Sichuan,0,4.3,Location,,,Location,Ambiance,,0,"204 Harvard Ave, Allston, MA 02134",Urban,http://www.bosyidie.com/,,0.5,0.5,0,0.6008
+19,19,19,19,Noah's Kitchen,亚轩十八,Asian Pavillion Eighteen,Fusion,0,4.3,Ambiance,Names,,Ambiance,Origin,,0,"18 Harvard St, Brookline, MA 02445",Urban,https://www.noahs.kitchen/,,0.5,0.3333333333333333,1,0.1184
+20,20,20,20,Lu Fu Zi,卤夫子,Brined Scholar,,0,,Romanized,,,Specialty,Culture,Pun_Creative,0,"154 harvard ave, Allston, MA",Urban,,https://www.chowbus.com/delivery/menu/Lu%20Fu%20Zi/2172,0.0,0.0,1,0.1573
+21,21,21,21,Grill Fish,烤鱼之家,Home of Grilled Fish,,0,,Specialty,,,Specialty,Ambiance,,1,"7 Beach St, Boston, MA",Urban,,https://www.chowbus.com/delivery/menu/Grill%20Fish/8423,0.5,0.5,0,0.8024
+22,22,22,22,Brother Crab Pot,哥俩肉蟹煲,Two Brothers Meaty Crab Pot,,0,,Specialty,,,Specialty,,,0,"7 Beach St, Boston, MA",Urban,,https://www.chowbus.com/delivery/menu/Brother%20Crab%20Pot/8949,1.0,1.0,0,0.8349
+23,23,23,23,Hong Kong Style Hot pot,香满园打边炉港式火锅,Fragrance Full Garden Hong Kong Style Hotpot,Cantonese,0,3.9,Location,Specialty,,Location,Specialty,,0,"28 Harrison Ave, Boston, MA",Urban,,https://www.chowbus.com/delivery/menu/Hong%20Kong%20Style%20Hot%20pot/9691,1.0,1.0,0,0.7344
+24,24,24,24,China Gourmet Restaurant,味中味,Taste in Taste,Fusion,0,4.0,Origin,,,Positivity,,,0,"23 tyler st #1905, Boston, MA",Urban,https://www.chinagourmetboston.com/,,0.0,0.0,1,0.1387
+25,25,25,25,Dolphin Bay,海豚湾,Dolphin Bay,Taiwan,0,4.3,Ambiance,,,Ambiance,,,1,"72 Brighton Ave, Allston, MA",Urban,,https://www.chowbus.com/delivery/menu/Dolphin%20Bay/196,1.0,1.0,0,1.0000
+26,26,26,26,Mala Restaurant,一麻一辣,One Numb One Spicy,Sichuan,0,4.2,Specialty,,,Specialty,Pun_Creative,,0,"129 Brighton Ave, Allston, MA 02134",Urban,https://malarestauranttogo.com/,,0.5,0.5,0,0.1602
+27,27,27,27,Supreme BBQ,尚品烤吧,Fashion Taste BBQ bar,Barbecue,0,4.2,Positivity,Specialty,,Specialty,Positivity,,0,"247 Eastern Ave, Malden, MA 02148",Urban,https://qmenu.us/#/supreme-bbq-malden,,1.0,1.0,0,0.6301
+28,28,28,28,Yunnan Kitchen,彩云之南,South of the Colorul Cloud,Yunan,0,4.3,Location,Ambiance,,Location,,,0,"1721 Washington St #B, Boston, MA 02118",Urban,http://yunnankitchensouthend.com/,,1.0,0.5,1,0.1481
+29,29,29,29,New China,新中国,New China,Fusion,0,4.0,Origin,,,Origin,,,1,"869 Harrison Ave, Boston, MA 02118",Urban,,,1.0,1.0,0,1.0000
+30,30,30,30,Yummee,渔米,Fishing Rice,Fusion,0,3.4,Romanized,,,Positivity,,,0,"665 Tremont St Ste A, Boston, MA 02118",Urban,https://www.menuorg.com/mobile/index.html#/shop/Yummee?id=39662,,0.0,0.0,1,0.0959
+31,31,31,31,Peking House,财富,Fortune,Beijing,0,4.2,Location,Ambiance,,Positivity,,,0,"160 Dudley St, Roxbury, MA 02119",Urban,http://pekinghouseboston.com/,,0.0,0.0,2,0.2161
+32,32,32,33,Dumpling Palace,南北和,South North Together,Fusion,0,3.5,Specialty,Ambiance,,Positivity,,,0,"179 Massachusetts Ave, Boston, MA 02115",Urban,https://www.dumpling-palace.com/,,0.0,0.0,2,0.2620
+33,33,33,34,Empire Garden Restaurant,帝苑大酒楼,Empire Garden Great Restaurant,Cantonese,0,3.9,Positivity,Ambiance,,Positivity,Ambiance,,1,"690 Washington St, Boston, MA 02111",Urban,,,1.0,1.0,0,0.9474
+34,34,34,35,Wing's Kitchen,小南阁,LIttle South Attic,Fusion,0,4.3,Names,Ambiance,,Ambiance,,,0,"13 Hudson St, Boston, MA 02111",Urban,https://www.wingskitchenboston.com/,,1.0,0.5,1,0.4047
+35,35,35,36,Jade Garden,翠苑海鲜酒楼,Emerald Garden Seafood Restaurant,Fusion,0,3.9,Positivity,Ambiance,,Specialty,Positivity,,0,"20 Tyler St, Boston, MA 02111",Urban,,,0.5,0.3333333333333333,1,0.3141
+36,36,36,37,The Q,小绵羊火锅,Little Lamb Hotpot,hotpot,0,4.5,Names,,,Specialty,,,0,"660 Washington St, Boston, MA 02111",Urban,https://thequsa.com/boston-q-restaurant-food-menu?y_source=1_OTM1MjkzMjgtNzE1LWxvY2F0aW9uLm1lbnVfdXJs,,0.0,0.0,1,0.1859
+37,37,37,38,Clay Pot Cafe,旺角,Mong Kok,Cantonese,0,4.3,Specialty,Ambiance,,Location,,,0,"74 Kneeland St, Boston, MA 02111",Urban,https://www.claypotcafemassachusetts.com/,,0.0,0.0,2,0.1102
+38,38,38,39,Double Chin Modern Asian Restaurant,为食家,For Food Home,Fusion,0,4.1,Origin,,,Ambiance,,,0,"86 Harrison Ave, Boston, MA 02111",Urban,http://www.doublechinbos.com/,,0.0,0.0,1,0.2472
+39,39,39,40,Royal East,五月花,May flower,Fusion,0,3.9,Positivity,Origin,,Other,,,0,"782 Main St, Cambridge, MA 02139",Urban,https://royaleastcambridge.com/,,0.0,0.0,2,0.1419
+40,40,40,41,Ding Ho,顶好快餐,Top Good Fast Food,Fusion,0,4.7,Romanized,,,Specialty,Positivity,,0,"88 Harrison Ave, Boston, MA 02111",Urban,,,0.0,0.0,1,0.1243
+41,41,41,42,Liaoxiang Rice Noodle,撩香米线,Tempting Fragrant Rice Noodle,Yunnan,0,4.9,Specialty,Romanized,,Specialty,Positivity,,0,"7 Knapp St, Boston, MA 02111",Urban,,,0.5,0.3333333333333333,1,0.7529
+42,42,42,43,Gene's Chinese Flatbread Cafe,老西安,Old Xi'an,Xian,0,4.5,Names,Specialty,Ambiance,Location,,,0,"86 Bedford St, Boston, MA 02111",Urban,http://www.genescafeboston.com/,,0.0,0.0,3,0.1454
+43,43,43,44,Hong Kong Eatery,香港小食,Hong Kong Street Food,Cantonese,0,4.2,Location,,,Location,,,1,"79 Harrison Ave, Boston, MA 02111",Urban,https://www.toasttab.com/hong-kong-eatery-79-harrison-ave,,1.0,1.0,0,0.8161
+44,44,44,45,Wai Wai,威威,Wei Wei,Cantonese,0,3.9,Names,,,Names,,,0,"26 Oxford St, Boston, MA 02111",Urban,,,1.0,1.0,0,0.3667
+45,45,45,46,Silk Road Uyghur Cuisine,丝绸之路新疆美食,Silk Road Xinjiang Cuisine,Uyghur,0,4.4,Culture,Specialty,,Location,Culture,Specialty,1,"645 Cambridge St, Cambridge, MA 02141",Urban,http://www.silkroadcambridge.com/,,0.6666666666666666,0.6666666666666666,0,0.7988
+46,46,46,47,Peach Farm,小桃园,Little Peach Garden,Fusion,0,3.9,Ambiance,,,Ambiance,,,1,"4 Tyler St, Boston, MA 02111",Urban,https://peachfarmseafood.com/,,1.0,1.0,0,0.7672
+47,47,47,49,Great Wok Restaurants,江东楼,River East House,Fusion,0,3.7,Positivity,,,Ambiance,,,0,"1284 Massachusetts Ave #1608, Dorchester, MA 02125",Urban,http://www.greatwokdorchester.com/,,0.0,0.0,1,0.2507
+48,48,48,50,Su Su Gourmet,素素小食,Su Su Street Food,Cantonese,0,3.4,Names,,,Names,,,1,"70 Tyler St, Boston, MA 02111",Urban,https://www.susugourmetbostonma.com/,,1.0,1.0,0,0.6519
+49,49,49,52,Cilantro Chinese Cuisine,御堂春,Royal Hall Spring,Fusion,0,3.9,Origin,,,Positivity,Ambiance,Pun_Creative,0,"1105 Massachusetts Ave, Cambridge, MA 02138",Urban,http://www.cilantrochinesecuisine.com/?utm_source=gmb&utm_medium=website,,0.0,0.0,1,0.0857
+50,50,50,53,New Golden Gate Seafood,新金门海鲜酒家,New Golden Gate Seafood Restaurant,Fusion,0,4.2,Positivity,Specialty,,Positivity,Ambiance,,1,"66 Beach St, Boston, MA 02111",Urban,https://newgoldengateseafood.com/,,0.5,0.3333333333333333,1,0.9208
+51,51,51,54,Jumbo Seafood,珍宝轩,Treasure Pavillion,Cantonese,1,4.0,Specialty,,,Positivity,Ambiance,,0,"5 Hudson St, Boston, MA 02111",Urban,https://www.jumboseafoodboston.net/,,0.0,0.0,1,0.2089
+52,52,52,55,Beijing Cafe,京味,Beijing Taste,Beijing,0,3.4,Location,Ambiance,,Location,,,0,"728 Commonwealth Ave, Boston, MA 02215",Urban,https://www.beijingcafeusa.com/,,1.0,0.5,1,0.7396
+53,53,53,56,Winsor Dim Sum Café,温莎点心美食,Windsor Dim Sum Cuisine,Cantonese,0,3.9,Names,Specialty,Ambiance,Names,Specialty,,1,"10 Tyler St, Boston, MA 02111",Urban,http://runinos.com/places/windsor-dim-sum-cafe-boston-ma/,,1.0,0.6666666666666666,1,0.6134
+54,54,54,57,Great Taste Bakery & Restaurant,美味轩,Tasty Pavillion,Cantonese,0,4.0,Positivity,,,Positivity,Ambiance,,1,"63 Beach St, Boston, MA 02111",Urban,http://greattastebakery.com/,,0.5,0.5,0,0.3515
+55,55,55,58,Xiang Yu China Bistro,湘遇,Hunan Meet,Hunan,0,4.2,Romanized,Ambiance,Origin,Pun_Creative,Location,,0,"1223 Beacon St, Brookline, MA 02446",Urban,http://www.xychinabistro.com/,,0.0,0.0,3,0.5991
+56,56,56,59,Young Kong,邕江,Yong River,Cantonese,0,3.6,Romanized,,,Location,,,0,"300 Centre St, Jamaica Plain, MA 02130",Urban,https://www.youngkongma.com/,,0.0,0.0,1,0.2678
+57,57,57,61,Canton House,广东楼,Canton House,Cantonese,0,3.7,Location,Ambiance,,Location,Ambiance,,1,"6 Hancock St, Boston, MA 02125",Urban,http://www.cantonhousema.com/,,1.0,1.0,0,1.0000
+58,58,58,62,Hei La Moon Restaurant,喜临门大酒楼,Joy Near Door Great Restaurant,Cantonese,0,4.0,Romanized,,,Positivity,Ambiance,,0,"83 Essex St, Boston, MA 02111",Urban,https://www.heilamoonrestaurant.com/order/,,0.0,0.0,1,0.4573
+59,59,59,63,Gaga Seafood Restaurant,嘉嘉海鲜菜馆,Gaga Seafood Restaurant,Cantonese,0,4.2,Names,Specialty,,Names,Specialty,,1,"25 Tyler St #1905, Boston, MA 02111",Urban,http://www.gagaseafoodbostonma.com/menu.aspx,,1.0,1.0,0,1.0000
+60,60,60,66,New Ho Toy,好彩,Good Color,Cantonese,0,3.6,Romanized,,,Positivity,,,0,"746 Dudley St, Dorchester, MA 02125",Urban,https://www.newhotoydorchester.com/,,0.0,0.0,1,0.1679
+61,61,61,67,Food Wall Chinese Restaurant,福城,Luck City,Fusion,0,3.7,Origin,,,Positivity,,,0,"387 Centre St, Jamaica Plain, MA 02130",Urban,http://www.foodwallchinese.com/?utm_source=gmb&utm_medium=website,,0.0,0.0,1,0.1462
+62,62,62,68,New Moon Villa Restaurant,新月宫海鲜酒家,New Moon Palace Seafood Restaurant,Fusion,0,3.5,Ambiance,,,Specialty,Ambiance,,1,"15 Edinboro St, Boston, MA 02111",Urban,https://newmoonvillast.com/,,0.5,0.5,0,0.7911
+63,63,63,69,Lucky Cafe,陆记明炉烧腊,Lu's Open Oven Roasted Meat,Cantonese,0,4.2,Positivity,Ambiance,,Names,Specialty,,0,"1107 Dorchester Ave, Boston, MA 02125",Urban,,,0.0,0.0,2,0.1732
+64,64,64,70,Xi’An Rougamo,姑娘手西安小吃,Girl Hand Xi'an Street Food,Xian,0,3.5,Location,Specialty,,Location,,,0,"417 Washington St, Boston, MA 02110",Urban,https://www.toasttab.com/xian-rougamo-boston-417-washington-street,,1.0,0.5,1,0.3389
+65,65,65,71,Chung Wah,中华,China,Fusion,0,4.1,Romanized,,,Origin,,,0,"199 Bowdoin St, Dorchester, MA 02122",Urban,https://chungwahboston.com/,,0.0,0.0,1,0.2767
+66,66,66,72,Mandarin Restaurant,华明,China Bright,Fusion,0,3.8,Origin,,,Positivity,Origin,,0,"7 Union Square, Somerville, MA 02143",Urban,,,0.5,0.5,0,0.3815
+67,67,67,73,Billy Tse,满福轩,Full Luck Pavillion,Fusion,0,4.1,Names,,,Positivity,Ambiance,,0,"240 Commercial Street, Boston, MA 02109",Urban,http://www.billytseboston.com/,,0.0,0.0,1,0.1050
+68,68,68,74,HaoShiGuang,好食光,Good Food Light,Fusion,0,4.1,Romanized,,,Positivity,,,0,"48 Harvard Ave, Allston, MA 02134",Urban,http://www.haoshiguangboston.com/,,0.0,0.0,1,0.1182
+69,69,69,75,Dragon Star Chinese Restaurant,龙星,Dragon Star,Fusion,0,4.2,Culture,Origin,,Positivity,Culture,,1,"700 Washington St, Brookline, MA 02446",Urban,http://dragonstarchineserestaurant.com/,,0.5,0.3333333333333333,1,0.6229
+70,70,70,76,Hong Kong Harbor,海港楼,Harbor House,Cantonese,0,4.0,Location,Ambiance,,Ambiance,,,0,"5 Maverick Square, East Boston, MA 02128",Urban,https://www.hongkongharborboston.com/,,1.0,0.5,1,0.6289
+71,71,71,77,QingDao Garden,青岛园,QingDao Garden,Fusion,0,4.2,Location,Ambiance,,Location,Ambiance,,1,"2382 Massachusetts Ave, Cambridge, MA 02140",Urban,http://www.qingdaogardentogo.com/,,1.0,1.0,0,1.0000
+72,72,72,79,Hong Kong Cafe,香港美食,Hong Kong Cuisine,Cantonese,0,3.5,Location,Ambiance,,Location,,,0,"1391 Beacon St, Brookline, MA 02446",Urban,http://www.hongkongcafebrookline.com/,,1.0,0.5,1,0.7988
+73,73,73,80,Ten Second Yunnan Rice Noodles,十秒到云南米线,Ten Seconds Delivery Yunnan Rice Noodle,Yunnan,0,4.1,Location,Specialty,,Location,Specialty,,1,"431 Cambridge St, Boston, MA 02134",Urban,,https://order.online/store/TenSecondNoodlesAllston-1189315/en-US/?hideModal=true&pickup=true,1.0,1.0,0,0.8167
+74,74,74,81,Spicy Hunan Kitchen,湘私馆,Hunan Private Restaurant,Hunan,0,4.5,Location,Ambiance,Specialty,Location,Pun_Creative,Ambiance,0,"390 Main St, Woburn, MA 01801",Urban,https://www.spicyhunan.com/menu,,0.6666666666666666,0.5,1,0.7819
+75,75,75,82,Friendship BBQ Boston,友情客串,Friendship Cameo,Barbecue,0,3.9,Specialty,Location,Positivity,Pun_Creative,Specialty,,0,"42 Beach St, Boston, MA 02111",Urban,http://friendshipbbqboston.com/,,0.5,0.25,2,0.3658
+76,76,76,83,Chinese Dragon,东方红,Eastern Red,Fusion,0,3.5,Culture,Origin,,Positivity,Origin,,0,"380 Chelsea St, Boston, MA 02128",Urban,http://bostonchinesedragon.com/,,0.5,0.3333333333333333,1,0.2633
+77,77,77,84,Joyful Garden,聚福海鲜酒楼,Gather Luck Seafood Restaurant,Cantonese,0,4.1,Positivity,Ambiance,,Positivity,Ambiance,Specialty,0,"550 Arsenal St, Watertown, MA 02472",Urban,https://joyful.boston/,,0.6666666666666666,0.6666666666666666,0,0.1372
+78,78,78,85,Great Chef Chinese Food at Day Square,渪圖,Ru Picture,Fusion,0,4.0,Positivity,Origin,Location,Other,,,0,"390 Chelsea St, Boston, MA 02128",Urban,http://www.greatchefchinesefood.com/,,0.0,0.0,3,0.0863
+79,79,79,86,Wu Er by WOW Barbecue,无二烤肉,No Two BBQ,Barbecue,0,3.9,Specialty,Romanized,,Specialty,,,0,"320 Washington St, Brookline, MA 02445",Urban,http://www.wowbarbecue.com/,,1.0,0.5,1,0.3690
+80,80,80,90,Our Zone,第五空间 家常川菜,Fifth Space Homemade Sichuan Cuisine,Sichuan,0,4.7,Other,,,Location,Specialty,,0,"1583 Commonwealth Ave, Brighton, MA 02135",Urban,http://ourzone.online/,,0.0,0.0,1,0.1324
+81,81,81,91,Zoe’s Chinese Restaurant,风味亭,Flavor Pavillion,Fusion,0,4.5,Names,Origin,,Positivity,Ambiance,,0,"296 Beacon St, Somerville, MA 02143",Urban,http://www.zoessomerville.com/,,0.0,0.0,2,0.3569
+82,82,82,93,Rose's Chinese Restaurant,花苑,Flower Garden,Fusion,0,4.0,Names,Origin,,Ambiance,,,0,"321 Boston Ave, Medford, MA 02155",Urban,http://www.rosesmedford.com/,,0.0,0.0,2,0.2343
+83,83,83,95,MDM Noodles,面对面,Face to Noodles,Fusion,0,4.4,Specialty,,,Pun_Creative,Specialty,,0,"351 Washington St, Brighton, MA 02135",Urban,http://www.mdmnoodles.com/?utm_source=gmb&utm_medium=website,,0.5,0.5,0,0.5548
+84,84,84,96,Dumpling Kitchen,心厨,Heart Kitchen,Fusion,0,3.3,Specialty,Ambiance,,Positivity,Ambiance,,0,"217 Highland Ave, Somerville, MA 02143",Urban,https://www.dumplingkitchen.net/,,0.5,0.3333333333333333,1,0.5053
+85,85,85,97,China Garden Restaurant,顿嘉,Dun Jia,Fusion,0,3.7,Origin,Ambiance,,Names,,,0,"256 Highland Ave, Malden, MA 02148",Urban,,,0.0,0.0,2,0.3182
+86,86,86,98,Chow N Joy,厨乐,Kitchen Joy,Fusion,1,3.8,Positivity,,,Positivity,,,0,"626 Somerville Ave, Somerville, MA 02143",Urban,https://www.chownjoysomervillema.com/#/,,1.0,1.0,0,0.5253
+87,87,87,99,Changsho,常熟,Always Familiar,Fusion,0,4.1,Romanized,,,Positivity,,,0,"1712 Massachusetts Ave, Cambridge, MA 02138",Urban,http://changshorestaurant.com/,,0.0,0.0,1,0.1529
+88,88,88,100,China House,中国楼,China House,Fusion,0,4.0,Origin,Ambiance,,Origin,Ambiance,,1,"234 Upper Main St, Edgartown, MA 02539",Rural,http://www.mvchinahouse.com/,,1.0,1.0,0,1.0000
+89,89,89,101,Golden Place,锦煌,Splendor Bright,Fusion,0,4.1,Positivity,Ambiance,,Positivity,,,0,"4 Barlows Landing Rd #2, Pocasset, MA 02559",Rural,http://goldenplacecapecod.com/index.html,,1.0,0.5,1,0.2929
+90,90,90,103,Asian Paradise,亚洲城,Asia City,Fusion,0,4.5,Origin,Ambiance,,Origin,Ambiance,,0,"1587 Main St, West Chatham, MA 02669",Rural,http://www.asianparadiseonline.com/,,1.0,1.0,0,0.6673
+91,91,91,105,Double Dragon Inn,双龙,Double Dragon,Fusion,0,4.2,Culture,Ambiance,,Culture,,,1,"59 MA-6A, Orleans, MA 02653",Rural,http://www.doubledragonorleans.com/,,1.0,0.5,1,0.7136
+92,92,92,107,Kung Fu Dumplings,功夫饺子,Kung Fu Dumplings,Dumplings,0,4.3,Culture,Specialty,,Specialty,Culture,,1,"293 Commercial St, Provincetown, MA 02657",Rural,http://kung-fu-dumplings.square.site/,,1.0,1.0,0,1.0000
+93,93,93,112,Panda Garden,熊家园,Bear Garden,Fusion,0,3.6,Culture,Ambiance,,Ambiance,,,0,"95 Main St, Lee, MA 01238",Rural,,,1.0,0.5,1,0.5477
+94,94,94,113,Red Apple,红苹果,Red Apple,Fusion,0,4.1,Other,,,Positivity,,,1,"23 Park Plaza A, Lee, MA 01238",Rural,http://places.singleplatform.com/red-apple-81/menu?ref=google,,0.0,0.0,1,1.0000
+95,95,95,115,The East Asian Cuisine,龙,Dragon,Fusion,0,4.2,Origin,,,Culture,,,0,"305 Stockbridge Rd, Great Barrington, MA 01230",Rural,http://www.theeastasiancuisine.com/,,0.0,0.0,1,0.2170
+96,96,96,120,Park's Asian Bistro & Sushi Bar,御膳房,Royal Kitchen,Fusion,0,4.5,Origin,Ambiance,Names,Positivity,Ambiance,,0,"3 Park St, Rehoboth, MA 02769",Rural,http://www.parksasianbistro.com/,,0.5,0.25,2,0.3304
+97,97,97,123,Panda Garden Chinese Restaurant,百里香,Hundred Miles Delicious,Fusion,0,4.3,Culture,Origin,Ambiance,Positivity,,,0,"49 Main St, Williamsburg, MA 01096",Rural,https://www.pandawilliamsburg.com/,,0.0,0.0,3,0.2460
+98,98,98,124,West Lake Gourmet Chinese Restaurant,西湖,West Lake,Fusion,0,4.4,Location,Culture,Origin,Location,Culture,,1,"15 College Hwy, Southampton, MA 01073",Rural,https://westlakegourmet.com/,,1.0,0.6666666666666666,1,0.5581
+99,99,99,129,New Fortune,鸿运,Good Fortune,Fusion,0,4.4,Positivity,,,Positivity,,,0,"249 Mohawk Trail, Greenfield, MA 01301",Rural,http://newfortunegreenfield.com/,,1.0,1.0,0,0.6392

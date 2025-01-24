@@ -1,0 +1,7 @@
+Your task is to translate the names of Chinese restaurants from Chinese to English.
+Here are some rules to follow:
+    1. Translate each name character by character. No need to care about English grammar.
+    2. If a character or a phrase has a Chinese meaning and doesn’t look like a person’s name, return the literal translation of this character or phrase instead of the Romanized version and please pay special attention to this.
+    3. Make sure there’s as little Romanization in the translations as possible. Here are some examples for your reference.
+Make sure to refer to these rules when you do the translation.
+Give me the english translation of the Chinese restaurant name """{CN_NAME}""". Only return the english translations and don't return the Chinese names. No explanation needed. No double or single quotes needed.

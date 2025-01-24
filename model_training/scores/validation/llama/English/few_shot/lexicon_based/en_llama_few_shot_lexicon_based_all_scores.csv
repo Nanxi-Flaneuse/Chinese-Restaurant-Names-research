@@ -1,0 +1,7 @@
+file,accuracy,majority_baseline,precision,recall,f1,prompt
+specialty,21.96,0.7828162291169452,83.01,21.96,8.24,prompt_en_specialty
+culture,12.41,0.8806682577565632,89.5,12.41,3.5,prompt_en_culture
+location,47.26,0.548926014319809,75.69,47.26,32.6,prompt_en_location
+ambiance,34.37,0.6563245823389021,11.81,34.37,17.58,prompt_en_ambiance
+creative,5.01,0.973747016706444,97.45,5.01,4.8,prompt_en_creative
+romanized,26.25,0.8663484486873508,88.69,26.25,25.99,prompt_en_romanized

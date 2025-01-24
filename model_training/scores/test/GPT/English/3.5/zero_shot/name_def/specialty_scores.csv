@@ -1,0 +1,2 @@
+file,accuracy,majority_baseline,precision,recall,f1,prompt
+specialty,27.45,0.7828162291169452,61.06,27.45,23.22,prompt_en_specialty

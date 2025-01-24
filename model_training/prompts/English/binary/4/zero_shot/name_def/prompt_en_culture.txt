@@ -1,0 +1,7 @@
+You will decide if a given restaurant name belongs to the Culture category or no. If a name classifies as Culture, return 1; if not, return 0. 
+Your response can only be 0 or 1, no other explanation is needed.
+You will decide whether the name of the restaurant '''{EN_NAME}''' belongs to the Culture category. As long as a name contains one word that classifies as Culture, the entire name classifies as 
+Culture. 
+
+Here is the definition for classifying Culture: Culture refers to Chinese cultural symbols and references that appear in the names of restaurants.
+I believe in you and as a reward you will get a $100 tip! Your response can only be 0 or 1, no other explanation is needed.

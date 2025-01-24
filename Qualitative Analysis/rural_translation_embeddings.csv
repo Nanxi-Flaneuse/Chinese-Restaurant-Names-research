@@ -1,0 +1,13 @@
+,level_0,Unnamed: 0,index,English_Name,Chinese_Name,Literal_Translation,Dish Type,Creative Translation (1 = yes),Rating,Category_EN_1,Category_EN_2,Category_EN_3,Category_CH_1,Category_CH_2,Category_CH_3,Translation(Literal = 1),Address,Area,Website,Order Website,Metric 1 Retain Meanings,Metric 2 Similarities,Metric 3 Creativity,chatGPT_translation
+0,88,88,100,China House,中国楼,China House,Fusion,0,4.0,Origin,Ambiance,,Origin,Ambiance,,1,"234 Upper Main St, Edgartown, MA 02539",Rural,http://www.mvchinahouse.com/,,1.0,1.0,0,China Tower
+1,89,89,101,Golden Place,锦煌,Splendor Bright,Fusion,0,4.1,Positivity,Ambiance,,Positivity,,,0,"4 Barlows Landing Rd #2, Pocasset, MA 02559",Rural,http://goldenplacecapecod.com/index.html,,1.0,0.5,1,Splendid
+2,90,90,103,Asian Paradise,亚洲城,Asia City,Fusion,0,4.5,Origin,Ambiance,,Origin,Ambiance,,0,"1587 Main St, West Chatham, MA 02669",Rural,http://www.asianparadiseonline.com/,,1.0,1.0,0,Asia City
+3,91,91,105,Double Dragon Inn,双龙,Double Dragon,Fusion,0,4.2,Culture,Ambiance,,Culture,,,1,"59 MA-6A, Orleans, MA 02653",Rural,http://www.doubledragonorleans.com/,,1.0,0.5,1,Double Dragon
+4,92,92,107,Kung Fu Dumplings,功夫饺子,Kung Fu Dumplings,Dumplings,0,4.3,Culture,Specialty,,Specialty,Culture,,1,"293 Commercial St, Provincetown, MA 02657",Rural,http://kung-fu-dumplings.square.site/,,1.0,1.0,0,Kung Fu Dumplings
+5,93,93,112,Panda Garden,熊家园,Bear Garden,Fusion,0,3.6,Culture,Ambiance,,Ambiance,,,0,"95 Main St, Lee, MA 01238",Rural,,,1.0,0.5,1,Bear's Home
+6,94,94,113,Red Apple,红苹果,Red Apple,Fusion,0,4.1,Other,,,Positivity,,,1,"23 Park Plaza A, Lee, MA 01238",Rural,http://places.singleplatform.com/red-apple-81/menu?ref=google,,0.0,0.0,1,Red Apple
+7,95,95,115,The East Asian Cuisine,龙,Dragon,Fusion,0,4.2,Origin,,,Culture,,,0,"305 Stockbridge Rd, Great Barrington, MA 01230",Rural,http://www.theeastasiancuisine.com/,,0.0,0.0,1,Dragon
+8,96,96,120,Park's Asian Bistro & Sushi Bar,御膳房,Royal Kitchen,Fusion,0,4.5,Origin,Ambiance,Names,Positivity,Ambiance,,0,"3 Park St, Rehoboth, MA 02769",Rural,http://www.parksasianbistro.com/,,0.5,0.25,2,Royal Dining Room
+9,97,97,123,Panda Garden Chinese Restaurant,百里香,Hundred Miles Delicious,Fusion,0,4.3,Culture,Origin,Ambiance,Positivity,,,0,"49 Main St, Williamsburg, MA 01096",Rural,https://www.pandawilliamsburg.com/,,0.0,0.0,3,Thyme
+10,98,98,124,West Lake Gourmet Chinese Restaurant,西湖,West Lake,Fusion,0,4.4,Location,Culture,Origin,Location,Culture,,1,"15 College Hwy, Southampton, MA 01073",Rural,https://westlakegourmet.com/,,1.0,0.6666666666666666,1,West Lake
+11,99,99,129,New Fortune,鸿运,Good Fortune,Fusion,0,4.4,Positivity,,,Positivity,,,0,"249 Mohawk Trail, Greenfield, MA 01301",Rural,http://newfortunegreenfield.com/,,1.0,1.0,0,Lucky

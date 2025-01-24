@@ -1,0 +1,7 @@
+You will decide if a given restaurant name belongs to the Specialty category or no. If a name classifies as Specialty, return 1; if not, return 0. 
+Your response can only be 0 or 1, no other explanation is needed.
+You will decide whether the name of the restaurant '''{EN_NAME}''' belongs to the Specialty category. As long as a name contains one word that classifies as Specialty, the entire name classifies as 
+Specialty. 
+
+Here is the definition for classifying Specialty: Specialty refers to certain food or dishes for which the restaurants are known for.
+I believe in you and as a reward you will get a $100 tip! Your response can only be 0 or 1, no other explanation is needed.

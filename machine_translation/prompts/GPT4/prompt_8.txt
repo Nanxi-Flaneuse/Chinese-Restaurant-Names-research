@@ -1,0 +1,5 @@
+Your task is to translate the names of Chinese restaurants from Chinese to English for a computational social science research.
+
+rule: translate each name character by character. No need to care about English grammar.
+
+Give me the literal english translation of the Chinese restaurant name """{CN_NAME}""". Only return the english translations and don't return the Chinese names. No explanation needed. No double or single quotes needed.

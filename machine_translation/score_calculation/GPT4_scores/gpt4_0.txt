@@ -1,0 +1,56 @@
+<class 'pandas.core.series.Series'>
+Unnamed: 0.1                                        49.500000
+Unnamed: 0                                          49.500000
+nanxi_translationgpt4_translationbleu                0.060000
+rukun_translationgpt4_translationbleu                0.033866
+nanxi_translationgpt4_translationconsine             0.769244
+rukun_translationgpt4_translationconsine             0.751815
+nanxi_translationgpt4_translationBERT_F1             0.977694
+nanxi_translationgpt4_translationBERT_precision      0.977862
+nanxi_translationgpt4_translationBERT_recall         0.977534
+rukun_translationgpt4_translationBERT_F1             0.978191
+rukun_translationgpt4_translationBERT_precision      0.978147
+rukun_translationgpt4_translationBERT_recall         0.978241
+nanxi_translationgpt4_translationrouge1              0.605097
+nanxi_translationgpt4_translationrouge2              0.405716
+nanxi_translationgpt4_translationrougeL              0.602875
+nanxi_translationgpt4_translationrougeLsum           0.602875
+rukun_translationgpt4_translationrouge1              0.556981
+rukun_translationgpt4_translationrouge2              0.305461
+rukun_translationgpt4_translationrougeL              0.541584
+rukun_translationgpt4_translationrougeLsum           0.541584
+rukun_translationgpt4_0consine                       0.753469
+nanxi_translationgpt4_0consine                       0.770635
+nanxi_translationgpt4_0BERT_F1                       0.977829
+nanxi_translationgpt4_0BERT_precision                0.978098
+nanxi_translationgpt4_0BERT_recall                   0.977566
+rukun_translationgpt4_0BERT_F1                       0.977607
+rukun_translationgpt4_0BERT_precision                0.977526
+rukun_translationgpt4_0BERT_recall                   0.977693
+nanxi_translationgpt4_0rouge1                        0.593478
+nanxi_translationgpt4_0rouge2                        0.394716
+nanxi_translationgpt4_0rougeL                        0.591256
+nanxi_translationgpt4_0rougeLsum                     0.591256
+rukun_translationgpt4_0rouge1                        0.557219
+rukun_translationgpt4_0rouge2                        0.309461
+rukun_translationgpt4_0rougeL                        0.541822
+rukun_translationgpt4_0rougeLsum                     0.541822
+nanxi_translationgpt4_0bleu                          0.060000
+rukun_translationgpt4_0bleu                          0.033866
+dtype: float64
+
+
+<class 'pandas.core.series.Series'>
+Unnamed: 0.2                              49.500000
+Unnamed: 0.1                              49.500000
+Unnamed: 0                                49.500000
+nanxi_translationgpt35_translationbleu     0.080000
+rukun_translationgpt35_translationbleu     0.027472
+                                            ...    
+rukun_translationgpt4_1rouge2              0.329885
+rukun_translationgpt4_1rougeL              0.545418
+rukun_translationgpt4_1rougeLsum           0.545418
+nanxi_translationgpt4_1bleu                0.070000
+rukun_translationgpt4_1bleu                0.034111
+Length: 75, dtype: float64
+

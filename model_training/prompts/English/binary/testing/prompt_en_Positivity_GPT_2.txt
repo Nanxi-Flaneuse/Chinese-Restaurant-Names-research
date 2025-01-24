@@ -1,0 +1,78 @@
+**Task:** Classifying Chinese Restaurant Names into "Positivity" Category
+
+**Objective:** Train the GPT model to identify whether a given Chinese restaurant name belongs to the "positivity" category based on provided examples.
+
+**Instructions:**
+
+1. **Understanding the "Positivity" Category:**
+   - The "positivity" category refers to restaurant names that evoke a sense of positive emotions, connotations, or feelings. These names typically reflect attributes such as happiness, good fortune, wealth, or general positivity.
+
+2. **Training Examples:**
+   - Below, you'll find a set of Chinese restaurant names categorized as either "positivity" or not. Study these examples to understand the patterns associated with the "positivity" category.
+
+      - **Positive Examples:**
+        1. "Lucky Palace"
+        2. "Joyful Garden Restaurant"
+        3. "Golden Harmony Express"
+        4. "King Buffet"
+        5. "China Best Express"
+        6. "The Legendary"
+        7. "No.1 Noodle House"
+        8. "Yummy Cafe"
+        9. "Delicious Food Corner"
+        10. "Shanghai Diamond Garden"
+        11. "Nice Time Cafe"
+        12. "Empress Pavilion"
+        13. "China Great Buffet"
+        14. "Perfect Chinese Food"
+        15. "Elite"
+        16. "Tasty Wok"
+        17. "Luscious Dumplings"
+        18. "Chinese Gourmet Kitchen"
+        19. "Fresh China Kitchen
+        20. "Gold Medal Chinese Food"
+        21. "Silver Palace"
+        22. "888 Fast Food"
+        23. "Happy Family"
+        24. "Sunny Palace"
+        25. "Jumbo Chinese Fast Food"
+        26. "China King"
+        27. "Royal Spring"
+        28. "VIP"
+        29. "The Dynasty"
+        30. "OK Chinese Food"
+      
+      - **Negative Examples:**
+        1. "Fast Wok Kitchen"
+        2. "Chopstick House"
+        3. "Dragon Buffet"
+        4. "Panda Express"
+        5. "Tea Garden"
+        6. "Bamboo House"
+        7. "Shanghai Cuisine"
+        8. "Big Wok"
+        9. "Rose Pavillion"
+        10. "John's Chinese Kitchen"
+        11. "Brookline Chinese Food"
+        12. "Shanghai Garden"
+        13. "New China Buffet"
+        14. "New Dumplings"
+
+
+      - **Exceptions:**
+        1. "Great Wall" refers to a famous landmark, therefore doesn't categorize as "positivity"
+        2. words like "8" and "red" has lucky meanings in Chinese, therefore they belong to the "positivity" category
+
+3. **Classification Task:**
+   - Your goal is to provide a prediction or classification for a list of Chinese restaurant names. Determine if each name fits the "positivity" category or not based on the patterns learned from the provided examples.
+   - return 1 if a name belongs to the "positivity" category and 0 if not. No explanation needed.
+4. **Evaluation Criteria:**
+   - The model's classification will be evaluated based on its accuracy in correctly identifying whether a restaurant name belongs to the "positivity" category or not.
+
+**Example Name for Classification:**
+
+Now, using the provided examples and the understanding of the "positivity" category, classify the following Chinese restaurant name:
+
+"{EN_NAME}"
+
+Indicate whether you believe this name falls into the "positivity" category or not. 

@@ -1,0 +1,16 @@
+,sample_id,national_id,English_Name,Chinese_Name,Personal_Name,Specialty,Positivity,Culture,Location,Ambiance,Pun_Creative,Relationship,Comments
+45,570,27625,Wen Wu Buffet,文武,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,？
+60,4018,21687,Tian Fu Seattle,天府春秋,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,天府指四川？
+72,3001,15048,Wong's Restaurant,黄黄,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,？
+86,2062,282,Panda Garden,登园,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,？
+90,527,8683,Lim Fongs,林芳,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,？
+125,1835,2141,Canton Palace Chinese Restaurant,汉宫,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,汉指啥？
+186,3754,24884,E PLUS STUDIO Karaoke & Asian Bistro,煎饼胡同,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,creative or no?
+239,1892,19634,Nine Dragons,九龙,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,这个好像不是指香港的九龙欸
+261,876,24503,China Garden Restaurant,嘉裕,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,可能是人名
+272,324,3896,Amore Eats,阿莫1店,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,英文中文完美对照
+296,3683,18126,Yellow River Restaurant,何处觅小馆,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,not sure if this counts as creative
+386,3803,29427,Chopstick Inn,筷子楼,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,筷子应该也算文化
+387,1152,4828,Lucky Corner,旺角,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,好像不是香港旺角？
+428,930,297,China Gourmet,大三元,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,？
+476,968,13363,Lamei Hot Pot,辣妹,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,？

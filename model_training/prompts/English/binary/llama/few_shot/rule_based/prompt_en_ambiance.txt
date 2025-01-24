@@ -1,0 +1,20 @@
+You will decide whether the name of the restaurant '''{EN_NAME}''' belongs to the Ambiance category. 
+If a name classifies as Ambiance, return True; if not, return False. 
+As long as a name contains one word that classifies as Ambiance, the entire name classifies as Ambiance. 
+Your response can only be True or False, no other explanation is needed. 
+
+Here is the criteria for classifying Ambiance:
+
+Ambiance refers to a kind of atmosphere which makes customers feel comfortable and enjoy the dining experience, or it often indicates family or friendship, or being homesick, which shortens the psychological distance between the restaurant and the patrons. Here are some common examples:
+    - Names containing words like “garden” that conveys a sense of tranquility and leisurely refinement
+    - Name containing words like “palace,” which suggests the image of imperial-style fine dining
+    - Names containing words that describe home-cooked meals in a more casual setting with words like “house,” “home,” “kitchen,” or “dining room”, etc.
+    - Names containing words that evoke images of a simpler life or country living, like “hut”, “village”, “inn”, “bistro”, etc.
+    - Names that contain family members like "Brother", "Uncle", "Grandma", "Mama", etc.
+    - Names words suggesting friendship like "friend", "friendship", etc.
+    - Names containing words related to hometown or home like "Hometown", "Home", etc.
+
+For instance, "Skewers Hut" contains the word "Hut", which fits the definition of making customers feel comfortable. So your response should be True. 
+For instance, "China restaurant" doesn't contain any words that fits the definition of making customers feel comfortable. So your response should be False. 
+
+Response: one word reply

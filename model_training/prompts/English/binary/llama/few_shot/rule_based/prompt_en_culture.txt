@@ -1,0 +1,13 @@
+You will decide if a given restaurant name belongs to the Culture category or no. If a name classifies as Culture, return 1; if not, return 0. 
+Your response can only be 0 or 1, no other explanation is needed.
+You will decide whether the name of the restaurant '''{EN_NAME}''' belongs to the Culture category. As long as a name contains one word that classifies as Culture, the entire name classifies as 
+Culture. 
+
+Culture refers to Chinese cultural symbols and references that appear in the names of restaurants. Here are some common examples:
+    - Names that contain Chinese animals or mystical creatures like "Panda", "Dragon", "Phoenix", etc.
+    - Names that contain famous historical monuments in China like "Great Wall", "Forbidden City", "Golden Gate", etc.
+    - Names that contain plants native to China like "Bamboo", "Plum Blossom", "Pine","Lotus",etc.
+    - Names that contain famous historical or well-known Chinese figures like "Jackie Chen","Xiaoping", etc.
+    - Names that contain the name of a specific Chinese Dynasty name like "Tang", "Song", etc.
+    - Names that contain Chinese artforms like "Kung Fu", "Tai Chi", etc.
+Response: single digit reply

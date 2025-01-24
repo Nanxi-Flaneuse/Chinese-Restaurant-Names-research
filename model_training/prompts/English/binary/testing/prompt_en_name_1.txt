@@ -1,0 +1,17 @@
+**task**
+Please decide if a restuarant name """{EN_NAME}""" contains any personal name.
+
+**Definition**
+Personal names are usually, but not necessarily, surnames or first names.
+
+**Here are some common examples:**
+    - Surnames with a possessive: "Qing’s Kitchen", "Hoy’s Wok", "P.F. Chang’s China Bistro"
+    - Names without a possessive: "China Lee", "Hunan Mao", "House of Louie", "Mei Mei Dumplings"
+    - Surnames with a form of address or courtesy title: "Mr Chow", "Madame Wu’s Asian Bistro", "MaMa Lu’s Dumpling House"
+    - Nicknames for family members or acquaintance: "Ah-X", "Liu Po"
+    - English names: "Paul’s Kitchen", "House of Benny", "Bebe Fusion", "Sam’s Chinese BBQ"
+
+
+If the name """{EN_NAME}""" contains any personal name, return 1; if not, return 0. No explanation needed.
+
+

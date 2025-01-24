@@ -1,0 +1,9 @@
+file,accuracy,majority_baseline,precision,recall,f1,prompt
+Personal_Name,85.75,0.89,87.81,85.75,86.63,prompt_en_name
+Specialty,21.25,0.7875,4.52,21.25,7.45,prompt_en_specialty
+Positivity,31.0,0.705,79.34,31.0,16.54,prompt_en_positivity
+Culture,12.5,0.8775,89.25,12.5,3.18,prompt_en_culture
+Location,47.25,0.5375,75.36,47.25,31.42,prompt_en_location
+Ambiance,62.75,0.645,78.13,62.75,62.15,prompt_en_ambiance
+Pun_Creative,11.0,0.98,98.04,11.0,16.57,prompt_en_creative
+Romanized,15.0,0.8525,87.43,15.0,4.3,prompt_en_romanized

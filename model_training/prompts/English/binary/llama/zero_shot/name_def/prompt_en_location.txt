@@ -1,0 +1,6 @@
+You will decide if a given restaurant name belongs to the Location category or no. If a name classifies as Location, return 1; if not, return 0. 
+Your response can only be 0 or 1, no other explanation is needed.
+You will decide whether the name of the restaurant '''{EN_NAME}''' belongs to the Location category. As long as a name contains one word that classifies as Location, the entire name classifies as 
+Location. 
+
+Here is the definition for classifying Location: Location refers to Asia, China, or specific regions in China or other places. Response: single digit reply

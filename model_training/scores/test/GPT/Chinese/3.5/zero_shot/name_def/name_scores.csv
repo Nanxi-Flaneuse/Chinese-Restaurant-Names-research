@@ -1,0 +1,2 @@
+file,accuracy,majority_baseline,precision,recall,f1,prompt
+name,68.16,0.9,89.86,68.16,74.52,prompt_cn_name

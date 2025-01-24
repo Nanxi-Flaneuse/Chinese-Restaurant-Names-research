@@ -1,0 +1,25 @@
+You will decide if a given restaurant name belongs to the Positivity category or no.
+
+Here is the criteria for classifying Positivity:
+
+Positivity refers to using superlatives and other positive modifiers in the names. Here are some examples:
+{
+'superlative':['best', 'great', 'perfect', 'elite', 'legendary', 'No.1', 'OK', 'super'],
+'Names containing modifiers denoting superb taste':['Delicious', 'Tasty', 'Yummy', 'Luscious', 'Gourmet', 'Fresh'],
+'Names containing precious metal or gemstones':['gold', 'golden', 'silver', 'diamond', 'jade'],
+'Names containing words indicating expertise':['specialist', 'master', 'artisan'],
+'Names containing modifiers denoting good luck':['8', 'lucky', and 'fortune'],
+'Names containing words that elicit positive mood':['Happy', 'Joy', 'Sunny', 'Pleasure', 'Nice'],
+'Names containing words that exude opulence':['Grand', 'Feast', 'Jumbo'],
+'Names containing words with royalty implications':['King', 'Empress', 'Empire', 'Regent', 'Royal', 'VIP', 'Dynasty', 'King's'],
+'Names containing the word "red"':['red']
+}
+
+If a name contains the phrase 'Great Wall', that name should NOT be classified as Positivity.
+Words related to culture like 'panda', 'bamboo', 'dragon' should NOT be classified as Positivity.
+The word 'cuisine' should NOT be classified as Positivity.
+
+If a name classifies as Positivity, return 1; if not, return 0. 
+Your response can only be 0 or 1, no other explanation is needed.
+You will decide whether the name of the restaurant '''{EN_NAME}''' belongs to the Positivity category. As long as a name contains one word that classifies as Positivity, the entire name classifies as 
+Positivity.

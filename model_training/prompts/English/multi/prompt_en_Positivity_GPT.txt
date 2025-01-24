@@ -1,0 +1,56 @@
+**Task:** Classifying Chinese Restaurant Names into 'positivity','personal_names','specialty','ambiance','creative','culture','location','romanized' Categories.
+
+**Objective:** Train the GPT model to identify whether a given Chinese restaurant name belongs to one of more of the following categories ('positivity','personal_names','specialty','ambiance','creative','culture','location','romanized') based on provided examples.
+
+**Instructions:**
+
+You will decide if a given restaurant name belongs to one or more of the categories mentioned above or no.
+
+Here is the criteria for classifying each category:
+
+1. "positivity" category 
+  Positivity refers to using superlatives and other positive modifiers in the names. Here are some examples:
+  - Names containing a superlative word: "China Best Express", "China Great Buffet", "Perfect Chinese Food", "Elite", "The Legendary", "No.1 Noodle House"
+  - Names containing modifiers denoting superb taste: "Delicious Food Corner", "Tasty Wok Cuisine", "Yummy Cafe", "Luscious Dumplings", "Chinese Gourmet Kitchen", "resh China Kitchen"
+  - Names containing words like gold, golden, silver, diamond, jade: "Gold Medal Chinese Food", G"olden China", "Silver Palace", "Shanghai Diamond Garden"
+  - Names containing modifiers denoting good luck such as 8: "888 Fast Food", "Lucky Seafood"
+  - Names containing words that elicit positive expectations: "Happy Family", "House of Joy", "Sunny Palace", "Pleasure Ocean", "Nice Time Cafe"
+  - Names containing words that exude opulence: "Grand Buffet", "Feast from the East", "Jumbo Chinese Fast Food", 
+  - Names containing royalty implications: China King, "King Fu", "Kingchops", "Empress Pavilion", "Empire Palace", "Regent China Inn", "Royal Spring", "VIP", The Dynasty"
+  - Names containing words like "OK": "OK Chinese Food"
+  - Names containing the word "red": "Red House"
+
+2. "personal_names" category
+  "personal_names" are usually, but not necessarily, surnames of the restaurant owners. Here are some common examples:
+  - Surnames with a possessive: "Qing’s Kitchen", "Hoy’s Wok", "P.F. Chang’s China Bistro"
+  - Names without a possessive: "China Lee", "Hunan Mao", "House of Louie", "Mei Mei Dumplings"
+  - Surnames with a form of address or courtesy title: "Mr Chow", "Madame Wu’s Asian Bistro", "MaMa Lu’s Dumpling House"
+  - Nicknames for family members or acquaintance: "Ah-X", "Liu Po"
+  - English names: "Paul’s Kitchen", "House of Benny", "Bebe Fusion", "Sam’s Chinese BBQ"
+
+3. "specialty" category
+  "specialty" refers to certain food or dishes for which some restaurants are known for. Here are some common examples:
+  - Names with special meat, seafood, and tofu: "Duck Queen", Fishball House, Little Fat Sheep, Seafood Village, Tofu House
+  - Names with BBQ and buffet: Sam’s Chinese BBQ, New Panda Buffet
+  - Names of tea-drinking restaurants: Green Tea House, Boba Tea Station, Tea Time
+  - Names with Dim Sum, Yum Cha, and Dim Sum dishes: Dim Sum Express, Yum Cha, Dumpling House, Tasty Bao, Egg Roll King
+  - Names with hot pot and pot: Mongolian Hot Pot, China Pot King
+  - Names with rice, noodles, congee: Noodle House, Rice & Noodles, The Congee, Porridge House
+  - Names with Islamic, vegetarian, and other cultures: China Islamic, Happy Veggie Garden, Buddha’s Feast
+  - Names with wok, snacks: China Wok, Rice Wok, Beijing Snacks
+
+
+3. **Classification Task:**
+   - Your goal is to provide a prediction or classification for a given Chinese restaurant name. Determine if the name fits the one or more of the categories mentioned above or not based on the patterns learned from the provided examples.
+   - You answer for whether a name belongs to a category should be 0 or 1.
+   - Your final output should be a string made up of "0"s and "1"s, which is made up of the answer for each category concatenated together. The order of concatenation is the same as the categories are listed above. For instance, the restaurant name "China Garden" belongs to "location" and "ambiance" categories, then your final output is a string "00010010". No explanation needed. 
+4. **Evaluation Criteria:**
+   - The model's classification will be evaluated based on its accuracy in correctly identifying whether a restaurant name belongs to the "positivity" category or not.
+
+**Example Name for Classification:**
+
+Now, using the provided examples and the understanding of the 'positivity','personal_names','specialty','ambiance','creative','culture','location','romanized' categories, classify the following Chinese restaurant name:
+
+"{EN_NAME}"
+
+Indicate whether you believe this name falls into one or more of the 'positivity','personal_names','specialty','ambiance','creative','culture','location','romanized' categories or not. 

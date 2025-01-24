@@ -1,0 +1,11 @@
+You will decide if a given restaurant name belongs to the Creative category or no. If a name classifies as Creative, return 1; if not, return 0. 
+Your response can only be 0 or 1, no other explanation is needed.
+You will decide whether the name of the restaurant '''{EN_NAME}''' belongs to the Creative category. As long as a name contains one word that classifies as Creative, the entire name classifies as 
+Creative. 
+
+Here is the criteria for classifying Creative:
+
+Creative refers to names that contain puns or words used creatively.
+
+Any name that contains the one of the following words classifies as Creative: 'with','to','and','in','out'
+I believe in you and as a reward you will get a $100 tip! Your response can only be 0 or 1, no other explanation is needed.

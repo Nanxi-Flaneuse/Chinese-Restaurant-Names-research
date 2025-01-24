@@ -1,0 +1,95 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,1_Q2,1_Q2_1_TEXT,1_Q3,2_Q2,2_Q2_1_TEXT,2_Q3,3_Q2,3_Q2_1_TEXT,3_Q3,4_Q2,4_Q2_1_TEXT,4_Q3,5_Q2,5_Q2_1_TEXT,5_Q3,6_Q2,6_Q2_1_TEXT,6_Q3,7_Q2,7_Q2_1_TEXT,7_Q3,8_Q2,8_Q2_1_TEXT,8_Q3,9_Q2,9_Q2_1_TEXT,9_Q3,10_Q2,10_Q2_1_TEXT,10_Q3,Q4,id
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - New China Grill & buffet - Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - Selected Choice","Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - New China Grill & buffet - Enter Chinese name below 有中文名，在下面方框內输入名字 - Text",New China Grill & buffet - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接,"Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - Mr.hos chinese buffet - Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - Selected Choice","Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - Mr.hos chinese buffet - Enter Chinese name below 有中文名，在下面方框內输入名字 - Text",Mr.hos chinese buffet - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接,"Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - Peng Garden Chinese BUFFET Restaurant - Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - Selected Choice","Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - Peng Garden Chinese BUFFET Restaurant - Enter Chinese name below 有中文名，在下面方框內输入名字 - Text",Peng Garden Chinese BUFFET Restaurant - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接,"Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - A1 Chinese & Hibachi - Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - Selected Choice","Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - A1 Chinese & Hibachi - Enter Chinese name below 有中文名，在下面方框內输入名字 - Text",A1 Chinese & Hibachi - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接,"Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - Golden Star China Buffet - Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - Selected Choice","Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - Golden Star China Buffet - Enter Chinese name below 有中文名，在下面方框內输入名字 - Text",Golden Star China Buffet - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接,"Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - MK's Asian Kitchen - Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - Selected Choice","Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - MK's Asian Kitchen - Enter Chinese name below 有中文名，在下面方框內输入名字 - Text",MK's Asian Kitchen - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接,"Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - Pearl Garden Chinese Restaurant - Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - Selected Choice","Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - Pearl Garden Chinese Restaurant - Enter Chinese name below 有中文名，在下面方框內输入名字 - Text",Pearl Garden Chinese Restaurant - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接,"Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - Mr. Wang's Restaurant BIRMINGHAM, ALABAMA - Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - Selected Choice","Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - Mr. Wang's Restaurant BIRMINGHAM, ALABAMA - Enter Chinese name below 有中文名，在下面方框內输入名字 - Text","Mr. Wang's Restaurant BIRMINGHAM, ALABAMA - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接","Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - Papa Wok - Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - Selected Choice","Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - Papa Wok - Enter Chinese name below 有中文名，在下面方框內输入名字 - Text",Papa Wok - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接,"Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - China Dragon 3 - Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - Selected Choice","Please find the corresponding Chinese name of the restaurant ""[Field-1]"" and type the Chinese name into the bar below. 请通过以下链接查找 [Field-1] 餐厅中文名
+
+	Google Maps 谷歌地图
+	Webiste 餐厅网站 - China Dragon 3 - Enter Chinese name below 有中文名，在下面方框內输入名字 - Text",China Dragon 3 - Enter the link to the image/webpage you used to find the Chinese name 请输入您查找中文名所用的图片或网站链接,Do you have any feedbacks or suggestions? 请在此留下您的任何意见或建议,id
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""1_QID3""}","{""ImportId"":""1_QID3_2_TEXT""}","{""ImportId"":""1_QID11_TEXT""}","{""ImportId"":""2_QID3""}","{""ImportId"":""2_QID3_2_TEXT""}","{""ImportId"":""2_QID11_TEXT""}","{""ImportId"":""3_QID3""}","{""ImportId"":""3_QID3_2_TEXT""}","{""ImportId"":""3_QID11_TEXT""}","{""ImportId"":""4_QID3""}","{""ImportId"":""4_QID3_2_TEXT""}","{""ImportId"":""4_QID11_TEXT""}","{""ImportId"":""5_QID3""}","{""ImportId"":""5_QID3_2_TEXT""}","{""ImportId"":""5_QID11_TEXT""}","{""ImportId"":""6_QID3""}","{""ImportId"":""6_QID3_2_TEXT""}","{""ImportId"":""6_QID11_TEXT""}","{""ImportId"":""7_QID3""}","{""ImportId"":""7_QID3_2_TEXT""}","{""ImportId"":""7_QID11_TEXT""}","{""ImportId"":""8_QID3""}","{""ImportId"":""8_QID3_2_TEXT""}","{""ImportId"":""8_QID11_TEXT""}","{""ImportId"":""9_QID3""}","{""ImportId"":""9_QID3_2_TEXT""}","{""ImportId"":""9_QID11_TEXT""}","{""ImportId"":""10_QID3""}","{""ImportId"":""10_QID3_2_TEXT""}","{""ImportId"":""10_QID11_TEXT""}","{""ImportId"":""QID9_TEXT""}","{""ImportId"":""id""}"
+2023-07-29 09:01:48,2023-07-29 09:11:25,0,*******,100,577,1,2023-07-29 09:11:26,R_qLxbJTCvUOBG20V,*******,*******,*******,*******,*******,*******,anonymous,EN,0,,,0,,,1,鹏园,"https://www.google.com/maps/place/Peng+Garden+Chinese+BUFFET+Restaurant/@30.3906009,-87.6837575,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPkBz3QtPn0z48asXrTirKZOnTYLjk3Mb58z9kM!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPkBz3QtPn0z48asXrTirKZOnTYLjk3Mb58z9kM%3Dw203-h203-k-no!7i1836!8i1836!4m15!1m7!3m6!1s0x889a0e166e234a99:0x8f8e2aa0c32b69b7!2sPeng+Garden+Chinese+BUFFET+Restaurant!8m2!3d30.3904068!4d-87.6838698!16s%2Fg%2F1tdkyg9s!3m6!1s0x889a0e166e234a99:0x8f8e2aa0c32b69b7!8m2!3d30.3904068!4d-87.6838698!10e5!16s%2Fg%2F1tdkyg9s?entry=ttu",0,,,1,金星,https://goldenstarbuffet.kwickmenu.com/,0,,,1,丰园,"https://www.google.com/maps/place/Pearl+Garden+Chinese+Restaurant/@33.2348467,-87.5766812,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPyrwPJ6DUShelK7Iue5uT-7uQQSvzfWDkIALSk!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPyrwPJ6DUShelK7Iue5uT-7uQQSvzfWDkIALSk%3Dw203-h114-k-no!7i1920!8i1080!4m15!1m7!3m6!1s0x888602d4d6b5f0f7:0xa7ca9f66402ac00!2sPearl+Garden+Chinese+Restaurant!8m2!3d33.23485!4d-87.576402!16s%2Fg%2F1tdk5ytc!3m6!1s0x888602d4d6b5f0f7:0xa7ca9f66402ac00!8m2!3d33.23485!4d-87.576402!10e5!16s%2Fg%2F1tdk5ytc?entry=ttu",1,老王,https://ilovemrwangs.com/,0,,,1,华龙,"https://www.google.com/maps/place/China+Dragon+3/@34.7941246,-86.7498843,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOjgbDxEP8nwxlvmZfuXnZ8BM1bh_cngbqVpM1E!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOjgbDxEP8nwxlvmZfuXnZ8BM1bh_cngbqVpM1E%3Dw152-h86-k-no!7i5312!8i2988!4m15!1m7!3m6!1s0x886267dd00705ee9:0x70bf0d5a2db73361!2sChina+Dragon+3!8m2!3d34.7943049!4d-86.7498846!16s%2Fg%2F1vn197sc!3m6!1s0x886267dd00705ee9:0x70bf0d5a2db73361!8m2!3d34.7943049!4d-86.7498846!10e5!16s%2Fg%2F1vn197sc?entry=ttu",,
+2023-08-01 08:09:01,2023-08-01 08:14:13,0,*******,100,311,1,2023-08-01 08:14:13,R_7UkicC7ya1EsTDP,*******,*******,*******,*******,*******,*******,anonymous,EN,0,,,0,,,1,鹏园,"https://www.google.com/maps/place/Peng+Garden+Chinese+BUFFET+Restaurant/@30.3904068,-87.6838698,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOUi6skJUrw32VYXlQPnPejLdakKnd-PAYwSRgG!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOUi6skJUrw32VYXlQPnPejLdakKnd-PAYwSRgG%3Dw129-h86-k-no!7i6000!8i4000!4m15!1m7!3m6!1s0x889a0e166e234a99:0x8f8e2aa0c32b69b7!2sPeng+Garden+Chinese+BUFFET+Restaurant!8m2!3d30.3904068!4d-87.6838698!16s%2Fg%2F1tdkyg9s!3m6!1s0x889a0e166e234a99:0x8f8e2aa0c32b69b7!8m2!3d30.3904068!4d-87.6838698!10e5!16s%2Fg%2F1tdkyg9s?entry=ttu",0,,,0,,,0,,,1,丰园,"https://www.google.com/maps/place/Pearl+Garden+Chinese+Restaurant/@33.2348467,-87.5766812,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPeUOs6upwy_JkO-_A3S3koZuygAptKLTXXvgUz!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPeUOs6upwy_JkO-_A3S3koZuygAptKLTXXvgUz%3Dw203-h270-k-no!7i3024!8i4032!4m15!1m7!3m6!1s0x888602d4d6b5f0f7:0xa7ca9f66402ac00!2sPearl+Garden+Chinese+Restaurant!8m2!3d33.23485!4d-87.576402!16s%2Fg%2F1tdk5ytc!3m6!1s0x888602d4d6b5f0f7:0xa7ca9f66402ac00!8m2!3d33.23485!4d-87.576402!10e5!16s%2Fg%2F1tdk5ytc?entry=ttu",0,,,0,,,0,,,,

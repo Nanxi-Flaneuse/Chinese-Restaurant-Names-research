@@ -1,0 +1,38 @@
+,sample_id,national_id,Chinese_Name,English_Name,Personal_Name,Specialty,Positivity,Culture,Location,Ambiance,Pun_Creative,Relationship,Comments
+13,3983,26917,祥发烧腊小馆,Hong Kong BBQ Restaurant,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,祥发
+14,2521,18068,"
+新中华",New China Restaurant,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,新-> nothing
+20,3277,26711,禄鼎记,LuDingJi Rice Noodle City of Industry,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,禄
+21,3135,24817,迷你涮涮锅,Bei Jing | Hot Pot & Asian Cuisine,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,迷你
+24,3990,22603,隐烫,YinTang Spicy Hot Pot,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,隐
+25,1652,5334,辣魅,Shanghai Osaka Restaurant,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,魅-> positivity
+26,2767,2547,华星,Bamboo Star,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,星-> positivity
+27,174,8393,味中味,King Taste Restaurant,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,味中味
+42,1613,29173,华利,China Lee,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,华利
+49,1775,26730,"海富海鲜酒家
+",Emperor Palace Restaurant,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,富--> positivity
+58,1791,10705,故乡味火锅,De Tasty Hot Pot Restaurant,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,故乡味
+59,672,14599,友来客,You Like Skewers,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,友
+60,784,3649,五月花,Mayflower Chinese Restaurant & Carryout,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,五月花
+61,2789,23088,来来点心,Homestyle Dim Sum Restaurant,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,"来来-> positivity, https://xmcs.buyiju.com/ceming/247066-v9zj.html"
+69,934,10906,顺利,Sam Lee Kitchen,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,should be creative
+84,2414,24660,味之选,New Big Daddy's,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,味之选
+92,1589,32648,品味,Taste Place,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,品味
+96,657,30598,聚园,New Asian Ju Yuan,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,聚园
+101,1642,26428,"臭豆腐大王
+",Tofu King,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,大王
+105,2568,17093,中国锅,China Wok,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,锅
+246,620,18297,"汉宫酒家
+",China Palace Restaurant,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,"汉宫
+"
+272,1893,18026,大城,Grand Wall Chinese Restaurant,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,大城
+275,3275,20173,小沈阳,Lucky Bento V.I.P. Cuisine,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,小沈阳
+283,3743,20250,君临,Hometown Chinese Restaurant,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,君临
+297,42,22978,总舖师正宗台菜,Momo Bistro,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,总舖师， 正宗
+327,962,31432,琼龙,Googoo's Table,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,琼 - beautiful
+333,812,31645,发文,Van Phat Chinese Restaurant,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,发文
+335,392,16164,知味坊,China Gourmet Longmont,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,知味
+339,3286,30272,颐和园,Imperial House Restaurant,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,颐和园
+353,1429,16507,紫竹林,Bamboo Garden Asian Grille,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,林
+394,3491,7779,文武,Wun Wu Chinese Kitchen,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,文武
+474,3675,2885,海,Hai,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,海 is not enough alone

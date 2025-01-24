@@ -1,0 +1,11 @@
+You will decide if a given restaurant name belongs to the Positivity category or no. If a name classifies as Positivity, return 1; if not, return 0. 
+Your response can only be 0 or 1, no other explanation is needed.
+You will decide whether the name of the restaurant '''{EN_NAME}''' belongs to the Positivity category. As long as a name contains one word that classifies as Positivity, the entire name classifies as 
+Positivity. 
+
+Here is the criteria for classifying Positivity:
+
+Positivity refers to using superlatives or positive modifiers in the names. 
+
+Any name that contains the one of the following words or phrases classifies as Positivity: 'best', 'great', 'perfect', 'elite', 'legendary', 'No.1', 'OK', 'super','Delicious', 'Tasty', 'Yummy', 'Luscious', 'Gourmet', 'Fresh','gold', 'golden', 'silver', 'diamond', 'jade','specialist', 'master', 'artisan','8', 'lucky', 'fortune','Happy', 'Joy', 'Sunny', 'Pleasure', 'Nice','Grand', 'Feast', 'Jumbo','King', 'Empress', 'Empire', 'Regent', 'Royal', 'VIP', 'Dynasty','red'
+Response: single digit reply

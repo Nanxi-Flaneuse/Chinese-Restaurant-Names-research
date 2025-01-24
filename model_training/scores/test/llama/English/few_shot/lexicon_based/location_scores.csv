@@ -1,0 +1,2 @@
+file,accuracy,majority_baseline,precision,recall,f1,prompt
+location,47.26,0.548926014319809,75.69,47.26,32.6,prompt_en_location

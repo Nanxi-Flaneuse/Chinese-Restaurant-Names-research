@@ -1,0 +1,71 @@
+You will decide if a given restaurant name '''{EN_NAME}''' belongs to the Positivity category.
+If a name contains one or more words that belong to the Positivity category, return 1; if not, return 0. 
+Your response can only be 0 or 1, no other explanation is needed.
+
+Positivity refers to using superlatives and other positive modifiers in the names. Note that the examples don't cover all the words in the category.
+Here are some examples:
+
+- Positivity subcategory superlative words 
+--'best'
+--'great'
+--'perfect'
+--'elite'
+--'legendary'
+--'No.1'
+--'OK'
+--'super'
+
+- Positivity subcategory modifiers denoting superb taste
+-- 'Delicious'
+--'Tasty'
+--'Yummy'
+--'Luscious'
+--'Gourmet'
+--'Fresh'
+
+- Positivity subcategory precious metal or gemstones
+-- 'gold'
+--'golden'
+--'silver'
+--'diamond'
+--'jade'
+
+- Positivity subcategory words indicating expertise
+-- 'specialist'
+--'master'
+--'artisan'
+
+- Positivity subcategory modifiers denoting good luck (especially in Chinese culture)
+--'8'
+--'lucky'
+--'fortune'
+
+- Positivity subcategory words that elicit positive mood 
+-- 'Happy'
+--'Joy'
+--'Sunny'
+--'Pleasure'
+--'Nice'
+
+- Positivity subcategory words that exude opulence
+-- 'Grand'
+--'Feast'
+--'Jumbo'
+
+- Positivity subcategory words with royalty implications
+-- 'King'
+--'Empress'
+--'Empire'
+--'Regent'
+--'Royal'
+--'VIP'
+--'Dynasty'
+--King's'
+
+- Positivity subcategory names containing the word "red".
+
+A list of words that don't belong to any of these categories include 'panda', 'dragon', 'bamboo', and 'cuisine'.
+
+
+
+

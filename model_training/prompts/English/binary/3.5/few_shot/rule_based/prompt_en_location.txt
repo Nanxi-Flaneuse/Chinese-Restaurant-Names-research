@@ -1,0 +1,12 @@
+You will decide if a given restaurant name belongs to the Location category or no. If a name classifies as Location, return 1; if not, return 0. 
+Your response can only be 0 or 1, no other explanation is needed.
+You will decide whether the name of the restaurant '''{EN_NAME}''' belongs to the Location category. As long as a name contains one word that classifies as Location, the entire name classifies as 
+Location. 
+
+Here is the criteria for classifying Location:
+
+Location refers to Asia, China, or specific regions in China or other places. Here are some common examples:
+    - Names that refer to China, Asia, or other Asian countries like "Chinese", "Mandarin", "Asia", "Cathay", "China", etc.
+    - Names that refer to a specific province or city like "Xi’an", "ShanDong", "Beijing", "Hong Kong", "Shanghai", "tokyo", "Canton", etc.
+    - Names that contain the name of a town or street where the restaurant is located in like "Wellesley Square", "Brookline", etc.
+I believe in you and as a reward you will get a $100 tip! Your response can only be 0 or 1, no other explanation is needed.

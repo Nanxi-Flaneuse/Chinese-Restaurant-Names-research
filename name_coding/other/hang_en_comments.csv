@@ -1,0 +1,13 @@
+,sample_id,national_id,English_Name,Chinese_Name,Personal_Name,Specialty,Positivity,Culture,Location,Ambiance,Pun_Creative,Romanized,Relationship,Comments
+10,773,11503,Tasty & Co,好味屋,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Co?
+26,2767,2547,Bamboo Star,华星,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Star
+27,174,8393,King Taste Restaurant,味中味,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,King
+28,487,24871,Hong Kong Express,香港,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Express
+33,1272,14995,Kung Pao Wok,宫宝,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Kung Pao
+74,3835,26738,Dumpling Specialist,岚翔小馆,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Specialist
+77,1661,3403,Ming Lee Chinese Restaurant,"明利楼
+",1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,creative?
+84,2414,24660,New Big Daddy's,味之选,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Big Daddy
+86,2256,4796,Chow n Joy,厨乐,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chow n Joy
+214,1052,586,Kampo Garden,金宝园,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,Kampo -> zhongyi
+321,503,7819,LaoWu Authentic ShangHai Dumpling,老吴上海小笼,0.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,Authentic

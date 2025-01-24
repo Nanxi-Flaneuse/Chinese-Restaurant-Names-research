@@ -1,0 +1,2 @@
+file,accuracy,majority_baseline,precision,recall,f1,prompt
+romanized,25.78,0.8663484486873508,88.67,25.78,25.25,prompt_en_romanized

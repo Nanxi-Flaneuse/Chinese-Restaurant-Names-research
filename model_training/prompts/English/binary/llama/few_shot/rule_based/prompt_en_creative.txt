@@ -1,0 +1,17 @@
+You will decide if a given restaurant name belongs to the Creative category or no. If a name classifies as Creative, return 1; if not, return 0. 
+Your response can only be 0 or 1, no other explanation is needed.
+You will decide whether the name of the restaurant '''{EN_NAME}''' belongs to the Creative category. As long as a name contains one word that classifies as Creative, the entire name classifies as 
+Creative. 
+
+Here is the criteria for classifying Creative:
+
+Creative refers to names that contain puns or words used creatively. Here are some examples:
+    - "wok with me" (sounds like “walk with me” and "wok" is a pun for "walk") 
+    - "pho king good" (sounds like “fucking good” and "pho king" is a pun for "fucking")
+    - "rice to meet you" (sounds like “nice to meet you” and "rice" is a pun for "nice")
+    - "Wok N Talk" ('wok' ryhmes with 'talk' and "wok" is a pun for "walk")
+
+* note that Chinese restaurant owners often like to use stereotypical Chinese ingredients, cooking utensils, or specialties to give their restaurants creative name.
+
+Your response can only be 0 or 1, no other explanation is needed.
+Response: single digit reply

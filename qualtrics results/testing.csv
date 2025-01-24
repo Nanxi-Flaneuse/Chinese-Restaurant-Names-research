@@ -1,0 +1,43 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,1_Q1,1_Q1_1_TEXT,2_Q1,2_Q1_1_TEXT,3_Q1,3_Q1_1_TEXT,4_Q1,4_Q1_1_TEXT
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Please find the corresponding Chinese name of the restaurant ""[Field-1] "" and type the Chinese name into the bar below. 請通過以下鏈接查找 [Field-1] 餐廳中文名
+
+	Google Maps 谷歌地圖
+	Webiste 餐廳網站 - The Foliage - Please find the corresponding Chinese name of the restaurant ""[Field-1] "" and type the Chinese name into the bar below. 請通過以下鏈接查找 [Field-1] 餐廳中文名
+
+	Google Maps 谷歌地圖
+	Webiste 餐廳網站 - Selected Choice","Please find the corresponding Chinese name of the restaurant ""[Field-1] "" and type the Chinese name into the bar below. 請通過以下鏈接查找 [Field-1] 餐廳中文名
+
+	Google Maps 谷歌地圖
+	Webiste 餐廳網站 - The Foliage - Enter Chinese name below 有中文名，在下面方框內輸入名字 - Text","Please find the corresponding Chinese name of the restaurant ""[Field-1] "" and type the Chinese name into the bar below. 請通過以下鏈接查找 [Field-1] 餐廳中文名
+
+	Google Maps 谷歌地圖
+	Webiste 餐廳網站 - Foliage Garden - Please find the corresponding Chinese name of the restaurant ""[Field-1] "" and type the Chinese name into the bar below. 請通過以下鏈接查找 [Field-1] 餐廳中文名
+
+	Google Maps 谷歌地圖
+	Webiste 餐廳網站 - Selected Choice","Please find the corresponding Chinese name of the restaurant ""[Field-1] "" and type the Chinese name into the bar below. 請通過以下鏈接查找 [Field-1] 餐廳中文名
+
+	Google Maps 谷歌地圖
+	Webiste 餐廳網站 - Foliage Garden - Enter Chinese name below 有中文名，在下面方框內輸入名字 - Text","Please find the corresponding Chinese name of the restaurant ""[Field-1] "" and type the Chinese name into the bar below. 請通過以下鏈接查找 [Field-1] 餐廳中文名
+
+	Google Maps 谷歌地圖
+	Webiste 餐廳網站 - Hannah Fun - Please find the corresponding Chinese name of the restaurant ""[Field-1] "" and type the Chinese name into the bar below. 請通過以下鏈接查找 [Field-1] 餐廳中文名
+
+	Google Maps 谷歌地圖
+	Webiste 餐廳網站 - Selected Choice","Please find the corresponding Chinese name of the restaurant ""[Field-1] "" and type the Chinese name into the bar below. 請通過以下鏈接查找 [Field-1] 餐廳中文名
+
+	Google Maps 谷歌地圖
+	Webiste 餐廳網站 - Hannah Fun - Enter Chinese name below 有中文名，在下面方框內輸入名字 - Text","Please find the corresponding Chinese name of the restaurant ""[Field-1] "" and type the Chinese name into the bar below. 請通過以下鏈接查找 [Field-1] 餐廳中文名
+
+	Google Maps 谷歌地圖
+	Webiste 餐廳網站 - Tsing Garden - Please find the corresponding Chinese name of the restaurant ""[Field-1] "" and type the Chinese name into the bar below. 請通過以下鏈接查找 [Field-1] 餐廳中文名
+
+	Google Maps 谷歌地圖
+	Webiste 餐廳網站 - Selected Choice","Please find the corresponding Chinese name of the restaurant ""[Field-1] "" and type the Chinese name into the bar below. 請通過以下鏈接查找 [Field-1] 餐廳中文名
+
+	Google Maps 谷歌地圖
+	Webiste 餐廳網站 - Tsing Garden - Enter Chinese name below 有中文名，在下面方框內輸入名字 - Text"
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""1_QID3""}","{""ImportId"":""1_QID3_2_TEXT""}","{""ImportId"":""2_QID3""}","{""ImportId"":""2_QID3_2_TEXT""}","{""ImportId"":""3_QID3""}","{""ImportId"":""3_QID3_2_TEXT""}","{""ImportId"":""4_QID3""}","{""ImportId"":""4_QID3_2_TEXT""}"
+2023-07-25 08:37:19,2023-07-25 08:39:18,1,*******,100,118,1,2023-07-25 08:39:19,R_zdLrl4jFVdkMuhb,*******,*******,*******,*******,*******,*******,preview,EN,1,红叶,0,,1,韩亚,0,
+2023-07-25 08:43:21,2023-07-25 08:50:33,1,*******,100,432,1,2023-07-25 08:50:34,R_PLLEjxxjguEuQut,*******,*******,*******,*******,*******,*******,preview,EN,1,红叶,0,,0,,0,
+2023-07-25 09:19:19,2023-07-25 09:20:00,1,*******,100,40,1,2023-07-25 09:20:01,R_2e9fuLORyTQGpND,*******,*******,*******,*******,*******,*******,preview,EN,0,,1,,0,,1,
+2023-07-25 11:01:23,2023-07-25 11:02:05,0,*******,100,41,1,2023-07-25 11:02:06,R_2AFOtRa3RA54r68,*******,*******,*******,*******,*******,*******,anonymous,EN,1,红叶,1,红叶园,1,韩亚,0,

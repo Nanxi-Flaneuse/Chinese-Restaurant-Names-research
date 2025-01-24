@@ -1,0 +1,8 @@
+file,accuracy,majority_baseline,precision,recall,f1,prompt
+name,94.21,0.9,94.21,94.21,94.21,prompt_cn_name
+specialty,47.63,0.8736842105263158,84.31,47.63,54.93,prompt_cn_specialty
+positivity,77.89,0.5578947368421052,77.98,77.89,77.67,prompt_cn_positivity
+culture,15.79,0.868421052631579,81.36,15.79,8.67,prompt_cn_culture
+location,76.84,0.7342105263157894,79.69,76.84,77.72,prompt_cn_location
+ambiance,59.47,0.5578947368421052,60.52,59.47,53.58,prompt_cn_ambiance
+creative,93.95,0.9763157894736842,97.35,93.95,95.35,prompt_cn_creative

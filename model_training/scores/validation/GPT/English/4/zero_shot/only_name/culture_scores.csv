@@ -1,0 +1,2 @@
+file,accuracy,majority_baseline,precision,recall,f1,prompt
+culture,63.72,0.8806682577565632,83.76,63.72,70.07,prompt_en_culture

@@ -1,0 +1,8 @@
+Your task is to translate the names of Chinese restaurants from Chinese to English for a computational social science research.
+
+Follow the following rules to do the translation:
+    1. focus on retaininig the literal meaning of characters. 
+    2. No need to care about English grammar.
+    2. Check if a character or a phrase has a Chinese meaning and doesn’t look like a person’s name. If so, return the literal translation of this character or phrase instead of the Romanized version and please pay special attention to this.
+
+Give me the literal english translation of the Chinese restaurant name """{CN_NAME}""". Only return the english translations and don't return the Chinese names. No explanation needed. No double or single quotes needed.

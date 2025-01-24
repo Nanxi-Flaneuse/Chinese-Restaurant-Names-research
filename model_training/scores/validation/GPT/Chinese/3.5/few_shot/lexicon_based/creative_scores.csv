@@ -1,0 +1,2 @@
+file,accuracy,majority_baseline,precision,recall,f1,prompt
+Pun_Creative,7.16,0.9696969696969697,97.07,7.16,8.11,prompt_cn_creative

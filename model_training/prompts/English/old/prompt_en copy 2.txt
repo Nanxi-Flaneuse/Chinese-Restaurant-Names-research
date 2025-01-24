@@ -1,0 +1,77 @@
+Given the following criterias to classify the English name of a given Chinese restaurant, classify which categories
+each name of each restaurant in the dataset belongs to. You can refer to the Chinese name of the restaurant '''{CN_NAME}''' if you are unsure about the meaning of the English name, but keep in mind
+that the Chinese name is not always related to the English name. One name can belong to multiple categories. If a name belong
+to a certain category, mark the boolean value for that category as 1, otherwise mark it as 0. Here are the categories:
+Personal_Name, Specialty, Positivity, Culture, Location, Ambiance, Pun_Creative, Romanized. Here are the criterias
+for categorizing a restaurant:
+
+Personal names are usually, but not necessarily, surnames of the restaurant owners. 
+Here are some common examples:
+Surnames with a possessive: Qing’s Kitchen, Hoy’s Wok, P.F. Chang’s China Bistro
+Names without a possessive: China Lee, Hunan Mao, House of Louie, Mei Mei Dumplings
+Surnames with a form of address or courtesy title: Mr Chow, Madame Wu’s Asian Bistro, MaMa Lu’s Dumpling House
+Nicknames for family members or acquaintance: Ah-X, Liu Po
+English names: Paul’s Kitchen, House of Benny, Bebe Fusion, Sam’s Chinese BBQ
+
+Specialty refers to certain food or dishes for which some restaurants are known for. Here are some common examples:
+Names with special meat, seafood, and tofu: Duck Queen, Fishball House, Little Fat Sheep, Seafood Village, Tofu House
+Names with BBQ and buffet: Sam’s Chinese BBQ, New Panda Buffet
+Names of tea-drinking restaurants: Green Tea House, Boba Tea Station, Tea Time
+Names with Dim Sum, Yum Cha, and Dim Sum dishes: Dim Sum Express, Yum Cha, Dumpling House, Tasty Bao, Egg Roll King
+Names with hot pot and pot: Mongolian Hot Pot, China Pot King
+Names with rice, noodles, congee: Noodle House, Rice & Noodles, The Congee, Porridge House
+Names with Islamic, vegetarian, and other cultures: China Islamic, Happy Veggie Garden, Buddha’s Feast
+Names with wok, snacks: China Wok, Rice Wok, Beijing Snacks
+
+Positivity refers to using superlatives and positive words in the names. Here are some examples:
+- Names containing a superlative word: China Best Express, China Great Buffet, Perfect Chinese Food, Elite, The Legendary, No. 1 Noodle House
+- Names containing modifiers denoting superb taste: Delicious Food Corner, Tasty Wok Cuisine, Yummy Cafe, Luscious Dumplings, Chinese Gourmet Kitchen, Fresh China Kitchen
+- Names containing words like gold, golden, silver, diamond, jade: Gold Medal Chinese Food, Golden China, Silver Palace, Shanghai Diamond Garden
+- Names containing modifiers denoting good luck such as 8: 888 Fast Food, Lucky Seafood
+- Names containing words that elicit positive expectations: Happy Family, House of Joy, Sunny Palace, Pleasure Ocean, Nice Time Cafe
+- Names containing words that exude opulence: Grand Buffet, Feast from the East, Jumbo Chinese Fast Food, 
+- Names containing royalty implications: China King, King Fu, Kingchops, Empress Pavilion, Empire Palace, Regent China Inn, Royal Spring, VIP, The Dynasty
+- Names containing words like "OK": OK Chinese Food
+- Names containing the word "red": Red House
+
+
+- Names containing superlative words like 'best', 'great', 'perfect', 'elite', 'legendary', 'No.1', 'OK', 'super', etc.
+- Names containing modifiers denoting superb taste like 'Delicious', 'Tasty', 'Yummy', 'Luscious', 'Gourmet', 'Fresh', etc.
+- Names containing precious metal or gemstones like 'gold', 'golden', 'silver', 'diamond', 'jade', etc.
+- Names containing words indicating expertise like 'specialist', 'master', 'artisan', etc.
+- Names containing modifiers denoting good luck such as '8', 'lucky', and 'fortune', etc.
+- Names containing words that elicit positive mood like 'Happy', 'Joy', 'Sunny', 'Pleasure', 'Nice', etc.
+- Names containing words that exude opulence like 'Grand', 'Feast', 'Jumbo', etc.
+- Names containing words with royalty implications like 'King', 'Empress', 'Empire', 'Regent', 'Royal', 'VIP', 'Dynasty', 'King's', etc.
+- Names containing the word "red".
+
+Ambiance refers to a kind of atmosphere which makes customers feel comfortable and enjoy the dining experience, or it often indicates family or friendship, or being homesick, which shortens the psychological distance between the restaurant and the patrons. Here are some common examples:
+Names with the word “garden” that conveys a sense of tranquility and leisurely refinement: Garden and Ding’s, Mandarin Garden, Tasty Garden, New Garden
+Name with the word “palace,” which suggests the image of imperial-style fine dining: China Palace, Rowland Palace, Silver Palace
+Names that describe home-cooked meals in a more casual setting with words like “house,” “home,” “kitchen,” or “dining room”: House of Benny, Joy House, Moon House, New RJ Chinese Kitchen, Tao Chinese Kitchen, Chinese Kitchen, Spicy Home, Yang’s Dining Room
+Names that evoke images of a simpler life or country living, like “hut”, “village”, “inn”, “bistro”: Boba Tea Hut,  Green Village, Hunan Village,  Bamboo Inn, Plum Tree Inn, Wok Inn,  Madame Wu’s Asian Bistro, New Canton Bistro
+Names that contain family members: Brother's Chinese Restaurant, Uncle Tom's Hot Pot, Grandma’s Pancake, Mama’s Kitchen
+Names suggest friendship: Friend’s house, Friends
+Names that remind patrons of their hometown: Hometown Szechuan, Home Chinese Cafe
+
+Pun_creative refers to names that contain puns or words used creatively.
+examples: wok with me (sounds like “walk with me”), pho king good (sounds like “fucking good”), rice to meet you (sounds like “nice to meet you”)
+
+Culture refers to the Chinese, American, or other cultural symbols and references that appear in the names of restaurants. Here are some common examples:
+Names that contain animals or mystical creatures native to China: Panda House, Dragon Garden, Phoenix tavern
+Names that contain famous historical monuments: Great Wall, Forbidden City Restaurant, Golden Gate
+Names that contain plants native to China: Bamboo Place, Plum Blossom
+Names that contain famous historical or well-known figures: Jackie Chen’s Place
+Names that contain the name of a specific Dynasty name: the Tang Dynasty, the Song Dynasty
+
+Location refers to Asia, China, or specific regions in China or other places. Here are some common examples:
+Names that refer to China, Asia, or other Asian countries: Chinese restaurant, Mandarin Garden, Asia Buffet, Chinese and Thai cuisine, Cathay House
+Names that refer to a specific province or city: Xi’an Noodles, ShanDong Garden, Beijing House, Hong Kong restaurant, Shanghai & Tokyo, Canton Bistro
+Names that contain the name of a town or street where the restaurant is located in: Wellesley Square sushi buffet, Brookline Wok
+
+Romanized names contain Romanized Chinese characters that are not names of a person or names that indicate relationships. Here are some common examples:
+Examples: Lu Fu Zi, Wei Shi Jia, Shu Da Xia restaurant, Hai Di Lao Garden, Din Tai Fung, Yi Mei Deli
+
+
+
+Start your answer with "English categories:".

@@ -1,0 +1,14 @@
+You will decide if a given restaurant name belongs to the Personal_Name category or no. If a name classifies as Personal_Name, return 1; if not, return 0. 
+Your response can only be 0 or 1, no other explanation is needed.
+You will decide whether the name of the restaurant '''{EN_NAME}''' belongs to the Personal_Name category. As long as a name contains one word that classifies as Personal_Name, the entire name classifies as 
+Personal_Name. 
+
+Here is the criteria for classifying Personal_Name:
+
+Personal_Names are usually, but not necessarily, surnames of the restaurant owners. Here are some examples:
+    - Surnames with a possessive like "Qing’s", "Hoy’s", "P.F. Chang’s", etc.
+    - Names without a possessive: like "Lee", "Mao", "Louie", "Mei Mei", etc.
+    - Surnames with a form of address or courtesy title like "Mr Chow", "Madame Wu’s", "MaMa Lu’s", etc.
+    - Nicknames for family members or acquaintance like "Ah-X", "Liu Po", etc.
+    - English names like "Paul’s", "Benny", "Bebe", "Sam’s", etc.
+I believe in you and as a reward you will get a $100 tip! Your response can only be 0 or 1, no other explanation is needed.

@@ -1,0 +1,2 @@
+file,accuracy,majority_baseline,precision,recall,f1,prompt
+ambiance,77.63,0.5578947368421052,80.12,77.63,76.56,prompt_cn_ambiance

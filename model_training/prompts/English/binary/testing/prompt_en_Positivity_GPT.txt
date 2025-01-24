@@ -1,0 +1,36 @@
+**Task:** Classifying Chinese Restaurant Names into "Positivity" Category
+
+**Objective:** Train the GPT model to identify whether a given Chinese restaurant name belongs to the "positivity" category based on provided examples.
+
+**Instructions:**
+
+1. **Understanding the "Positivity" Category:**
+   - The "positivity" category refers to restaurant names that evoke a sense of positive emotions, connotations, or feelings. These names typically reflect attributes such as happiness, good fortune, wealth, or general positivity.
+
+2. **Training Examples:**
+   - Below, you'll find a set of Chinese restaurant names categorized as either "positivity" or not. Study these examples to understand the patterns associated with the "positivity" category.
+
+      - **Positive Examples:**
+        1. "Lucky Palace"
+        2. "Joyful Garden Restaurant"
+        3. "Golden Harmony Express"
+        4. "King Buffet"
+      
+      - **Negative Examples:**
+        1. "Fast Wok Kitchen"
+        2. "Chopstick House"
+        3. "Dragon Buffet"
+
+3. **Classification Task:**
+   - Your goal is to provide a prediction or classification for a list of Chinese restaurant names. Determine if each name fits the "positivity" category or not based on the patterns learned from the provided examples.
+   - return 1 if a name belongs to the "positivity" category and 0 if not. No explanation needed.
+4. **Evaluation Criteria:**
+   - The model's classification will be evaluated based on its accuracy in correctly identifying whether a restaurant name belongs to the "positivity" category or not.
+
+**Example Name for Classification:**
+
+Now, using the provided examples and the understanding of the "positivity" category, classify the following Chinese restaurant name:
+
+"{EN_NAME}"
+
+Indicate whether you believe this name falls into the "positivity" category or not. 

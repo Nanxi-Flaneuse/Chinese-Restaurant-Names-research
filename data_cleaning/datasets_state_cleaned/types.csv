@@ -1,0 +1,688 @@
+Chinese restaurant,34744
+Restaurant,8168
+Buffet restaurant,731
+New American restaurant,88
+Mexican restaurant,1535
+Chinese takeaway,188
+Thai restaurant,3394
+Dumpling restaurant,134
+Asian restaurant,2133
+Vietnamese restaurant,1401
+Ice cream shop,56
+Organic restaurant,8
+Pan-Asian restaurant,83
+Delivery Chinese restaurant,56
+Seafood restaurant,772
+Fast food restaurant,942
+Pizza restaurant,1606
+American restaurant,2527
+nan,4853
+Southern restaurant (US),67
+Grocery store,684
+Asian fusion restaurant,1072
+Japanese restaurant,2023
+Inn,20
+Taiwanese restaurant,184
+Takeout Restaurant,219
+Hot pot restaurant,223
+Ramen restaurant,255
+Bubble tea store,56
+Cantonese restaurant,160
+Dim sum restaurant,191
+Vegan restaurant,92
+Indian restaurant,279
+Sushi restaurant,1072
+Bar & grill,1262
+Korean restaurant,535
+Mandarin restaurant,92
+Puerto Rican restaurant,15
+Cafeteria,5
+Polynesian restaurant,4
+Italian restaurant,292
+Chinese noodle restaurant,169
+Noodle shop,79
+Barbecue restaurant,519
+Sichuan restaurant,171
+Bar,528
+Family restaurant,673
+Diner,417
+Post office,75
+Supermarket,74
+Banquet hall,7
+Crab house,6
+Sandwich shop,456
+Hamburger restaurant,227
+Lunch restaurant,11
+Malaysian restaurant,41
+Cafe,335
+Hotel,143
+Cambodian restaurant,47
+Southeast Asian restaurant,75
+Afghan restaurant,7
+Peruvian restaurant,26
+Hunan restaurant,58
+Pizza delivery,278
+Furniture store,9
+Dollar store,382
+Cancer treatment center,1
+Mediterranean restaurant,54
+Yemenite restaurant,5
+Pizza Takeout,109
+Spanish restaurant,7
+Tiffin center,1
+Shanghainese restaurant,54
+Bridge,3
+Liquor store,8
+Steak house,298
+Cuban restaurant,16
+Traditional American restaurant,34
+Bakery,77
+Fine dining restaurant,93
+Cocktail bar,15
+Food store,2
+Deli,42
+Japanese steakhouse,92
+Soul food restaurant,48
+Seafood market,27
+Wok restaurant,54
+Authentic Japanese restaurant,38
+Korean barbecue restaurant,68
+Dominican restaurant,18
+Burmese restaurant,38
+Health food restaurant,34
+Brazilian restaurant,4
+Uzbeki restaurant,7
+Jamaican restaurant,21
+Grill,41
+Book store,1
+Food manufacturer,3
+Chicken wings restaurant,93
+Central American restaurant,4
+Latin American restaurant,33
+Kyoto style Japanese restaurant,5
+Asian grocery store,208
+Irish pub,10
+Watch store,1
+Fusion restaurant,29
+Cha chaan teng (Hong Kong-style cafe),7
+Children's camp,3
+Hong Kong style fast food restaurant,41
+Motel,50
+Chicken restaurant,207
+Irish restaurant,6
+Club,2
+Tourist attraction,7
+Colombian restaurant,5
+Tibetan restaurant,7
+Laotian restaurant,60
+Soup kitchen,2
+Salad shop,9
+Kosher restaurant,28
+Hawaiian restaurant,61
+Moroccan restaurant,3
+Halal restaurant,38
+Vegetarian restaurant,41
+Portuguese restaurant,3
+Coffee shop,118
+Acupuncture clinic,6
+Park,15
+Bistro,61
+Indian grocery store,2
+Beer garden,9
+Brewery,31
+Breakfast restaurant,202
+Down home cooking restaurant,20
+Botanical garden,2
+Function room facility,1
+Wine bar,3
+Soba noodle shop,3
+Country food restaurant,31
+Hot dog restaurant,14
+Food producer,8
+Rice restaurant,25
+Caribbean restaurant,48
+Taco restaurant,56
+Lounge,15
+Pub,34
+Greek restaurant,23
+Basque restaurant,3
+Brasserie,2
+Bangladeshi restaurant,5
+Convenience store,73
+Lodging,13
+Teppanyaki restaurant,24
+Bagel shop,4
+School,6
+Event venue,10
+Child care agency,1
+Gift shop,14
+Mexican goods store,3
+Gluten-free restaurant,5
+Tea store,1
+Bowling alley,35
+Department store,14
+Shabu-shabu restaurant,34
+Japanese grocery store,2
+French restaurant,27
+Pho restaurant,86
+Filipino restaurant,98
+Korean grocery store,6
+Tea house,17
+Shopping mall,16
+Gas station,38
+Warehouse club,1
+Sushi takeaway,19
+Gastropub,15
+Campground,14
+Brewpub,31
+Pakistani restaurant,23
+Cajun restaurant,49
+Tofu restaurant,2
+Fish restaurant,1
+Collectibles store,1
+Tree service,3
+Chinese bakery,7
+Clothing store,1
+Eclectic restaurant,15
+Lodge,20
+Business center,16
+Poke bar,33
+Wedding venue,9
+Legal services,1
+Food court,31
+History museum,3
+Offal pot cooking restaurant,1
+Bed & breakfast,18
+Southwestern restaurant (US),5
+Modern French restaurant,1
+Northern Italian restaurant,3
+Non-profit organization,6
+Used car dealer,4
+Espresso bar,2
+Mortgage lender,1
+European restaurant,1
+Tapas restaurant,6
+Traditional restaurant,17
+Kitchen remodeler,1
+Frozen food manufacturer,4
+State park,8
+Warehouse,3
+West African restaurant,6
+Sports bar,20
+Museum,15
+Airport,1
+Visitor center,2
+Gyro restaurant,6
+Israeli restaurant,2
+Egyptian restaurant,1
+Middle Eastern restaurant,19
+Mongolian barbecue restaurant,126
+Medical clinic,10
+Association or organization,14
+Juice shop,2
+Delivery Restaurant,40
+Architect,1
+Nepalese restaurant,38
+Sightseeing tour agency,1
+New England restaurant,5
+Lebanese restaurant,22
+Snack bar,17
+Home improvement store,2
+Butcher shop deli,3
+Store,23
+Cemetery,3
+Bonsai plant supplier,1
+Live music bar,1
+Seafood store,1
+Dessert shop,4
+Lumber store,1
+Medical Center,5
+Food products supplier,13
+Sri Lankan restaurant,5
+Caterer,39
+Indonesian restaurant,18
+Veterans hospital,2
+Island,3
+Seafood wholesaler,4
+Hot dog stand,7
+Floridian restaurant,1
+Food and drink,8
+Ski resort,1
+Eastern European restaurant,5
+Resort hotel,33
+RV park,8
+Farm shop,2
+Massage spa,5
+Food bank,4
+Wine store,2
+Chop bar,1
+Church,20
+Variety store,5
+Salvadoran restaurant,23
+Fried chicken takeaway,7
+Radio broadcaster,2
+Kung fu school,1
+Electronics store,1
+Modern European restaurant,3
+Western restaurant,6
+General store,16
+Marina,3
+Bus company,2
+Medical school,1
+Indian takeaway,3
+Japanese curry restaurant,3
+Georgian restaurant,2
+Chocolate shop,3
+State liquor store,1
+Parking lot,2
+Gourmet grocery store,6
+Garage door supplier,1
+Contemporary Louisiana restaurant,2
+Endocrinologist,1
+General contractor,1
+Haitian restaurant,2
+Haute French restaurant,2
+Historical landmark,18
+Farm,4
+Pottery store,3
+Honduran restaurant,6
+Golf club,1
+University,1
+Mobile caterer,4
+Gambling house,6
+Antique store,20
+Winery,9
+Beer hall,5
+Açaí shop,1
+Business management consultant,2
+Food seasoning manufacturer,1
+South Asian restaurant,9
+Market,5
+Asian household goods store,1
+Turkish restaurant,5
+Public beach,1
+Farmers' market,4
+Leather goods store,1
+Train station,1
+African restaurant,10
+Landscaper,2
+Creole restaurant,2
+Brunch restaurant,19
+Art gallery,2
+Veterans organization,7
+Warehouse store,1
+Place of worship,1
+Modern Indian restaurant,12
+Dessert restaurant,4
+Cheesesteak restaurant,2
+Izakaya restaurant,8
+Culinary school,1
+Candy store,3
+Patisserie,1
+German restaurant,14
+Javanese restaurant,1
+Performing arts theater,1
+Guest house,2
+Spiritist center,1
+Tex-Mex restaurant,20
+Nature preserve,1
+Boat rental service,3
+Polish restaurant,6
+Chesapeake restaurant,1
+Animal feed store,5
+Appliance rental service,1
+Box lunch restaurant,1
+Burrito restaurant,6
+Bus stop,4
+Casino,27
+Catering food and drink supplier,4
+Chinese supermarket,10
+College,2
+Community center,6
+Continental restaurant,1
+Conveyor belt sushi restaurant,9
+Corporate office,9
+Ethiopian restaurant,5
+Firewood supplier,1
+Fruit and vegetable store,3
+Garden,3
+Health food store,2
+Heritage museum,1
+Hoagie restaurant,1
+Home health care service,1
+Indoor lodging,7
+Kebab shop,3
+Kitchen supply store,1
+Lake,2
+Lottery shop,1
+Martial arts school,3
+Massage therapist,14
+Mennonite church,1
+Mid-Atlantic restaurant (US),2
+Miniature golf course,1
+Newspaper publisher,4
+Nuevo Latino restaurant,1
+Oriental goods store,1
+Pennsylvania Dutch restaurant,3
+Physical therapist,1
+Playground,2
+Postal code,1385
+Private college,1
+Public university,1
+Ranch,2
+Restaurant or cafe,4
+Sake brewery,1
+Stand bar,1
+Steamed bun shop,11
+Swiss restaurant,3
+Tourist information center,1
+Truck stop,23
+Venezuelan restaurant,1
+City courthouse,1
+Real estate agency,1
+Gift basket store,1
+Hospital,3
+Martial arts club,1
+Housing authority,2
+Jehovah's Witness Kingdom Hall,2
+Hardware store,8
+Sporting goods store,2
+Sculpture,2
+Soup restaurant,4
+Employment agency,1
+Cannabis store,12
+Government office,6
+Thrift store,1
+Native American restaurant,5
+Church of Jesus Christ of Latter-day Saints,1
+Syokudo and Teishoku restaurant,1
+Towing service,1
+Locksmith,1
+Heliport,1
+Yakiniku restaurant,3
+Spice store,3
+Soup shop,2
+Food and beverage exporter,1
+Soft drinks shop,1
+Air force base,3
+Hiking area,1
+Tire shop,8
+Monument,1
+Conservation department,1
+Swimming pool,1
+Butcher shop,10
+Meat wholesaler,3
+Oil & natural gas company,1
+Beauty salon,4
+Syrian restaurant,1
+Fondue restaurant,2
+Donut shop,21
+Catholic church,1
+Cabin rental agency,1
+Tour operator,1
+Tour agency,1
+Toll booth,1
+Salsa bar,1
+Produce market,4
+Produce wholesaler,2
+Argentinian restaurant,1
+Singaporean restaurant,5
+Florist,10
+Pie shop,3
+Historical place,3
+Federal government office,1
+Auto repair shop,8
+Self service restaurant,3
+City Hall,3
+Public swimming pool,1
+Native american goods store,1
+Pharmacy,13
+Coffee stand,2
+Acupuncturist,4
+Shed builder,1
+Preschool,2
+Apartment building,4
+Water park,1
+Day care center,5
+Animal hospital,2
+Chinese tea house,4
+Pastry shop,1
+Family practice physician,1
+Food processing company,3
+Frozen food store,1
+Pool hall,1
+Tax preparation service,1
+Real estate developer,1
+Plaza,2
+Shandong restaurant,3
+Outlet mall,1
+Korean rib restaurant,1
+Building materials supplier,1
+Arts organization,1
+Social club,1
+Chiropractor,8
+Veterinarian,8
+Food production,1
+Oil change service,1
+Nutritionist,3
+Money transfer service,1
+Meat products store,3
+Pancake restaurant,2
+Cottage rental,1
+Chamber of Commerce,1
+Home goods store,6
+Fertilizer supplier,1
+Sundanese restaurant,1
+Chinese language school,4
+East African restaurant,5
+Discount store,1
+Rustic furniture store,1
+Livestock auction house,2
+Live music venue,1
+Social worker,1
+Construction and maintenance office,1
+Meat processor,6
+Chicken shop,5
+Methodist church,5
+Nursing home,9
+Manufacturer,6
+Flea market,2
+Wing chun school,1
+Boutique,2
+Art cafe,1
+Bait shop,1
+Brake shop,1
+Property management company,1
+Mutton barbecue restaurant,1
+Furniture wholesaler,1
+Popcorn store,1
+Art museum,1
+Used furniture store,1
+Bingo hall,1
+Video arcade,2
+Agricultural cooperative,2
+Truck repair shop,1
+Pet store,1
+Tack shop,1
+Sweets and dessert buffet,1
+Plant nursery,1
+Delivery service,5
+Tamale shop,1
+BBQ area,1
+Dance hall,1
+Suppon restaurant,1
+Bowling club,1
+Vending machine,1
+Religious organization,2
+United Methodist church,2
+Police department,1
+Off roading area,1
+Primary school,1
+Farm equipment supplier,2
+Oyster bar restaurant,6
+Water utility company,1
+Mountain pass,1
+Meat dish restaurant,2
+Pet groomer,4
+Siding contractor,2
+Window tinting service,1
+Hunting area,1
+Czech restaurant,1
+Sand plant,1
+ATM,2
+Festival,1
+Nail salon,1
+Chettinad restaurant,1
+Grain elevator,4
+Business to business service,1
+Wildlife and safari park,1
+Ukrainian restaurant,1
+Consultant,1
+Tonkatsu restaurant,2
+Wholesaler,2
+Foot massage parlor,1
+Cultural center,1
+Japanese delicatessen,1
+Armenian restaurant,4
+Pacific Rim restaurant,7
+Natural goods store,1
+Pagoda,1
+Taoist temple,1
+News service,1
+Pacific Northwest restaurant (US),3
+Udon noodle restaurant,7
+Californian restaurant,11
+Sukiyaki and Shabu Shabu restaurant,6
+Social services organization,2
+Russian restaurant,5
+Marine supply store,1
+Wedding bakery,1
+Garden center,3
+Hakka restaurant,4
+Livestock breeder,1
+Train depot,1
+Taxi service,1
+Karaoke bar,3
+Rodeo,1
+Buddhist temple,2
+Tapas bar,2
+Sicilian restaurant,1
+Family service center,1
+Cooking class,1
+Laundromat,3
+Golf course,1
+Fish & chips restaurant,6
+Fairground,2
+Mountain peak,1
+Chinese food,1
+Tortilla shop,1
+Plumber,1
+Travel agency,2
+Wholesale food store,1
+Ghost town,1
+Elementary school,1
+Youth hostel,1
+Balinese restaurant,1
+Language school,3
+Yakitori restaurant,1
+Persian restaurant,1
+Cottage,1
+Logistics service,1
+Bottled water supplier,1
+Lutheran church,1
+Spa,1
+Danish restaurant,2
+National park,1
+Public bathroom,1
+Creperie,1
+Belgian restaurant,1
+Wholesale plant nursery,1
+Lottery retailer,1
+Eatery,1
+Guatemalan restaurant,2
+British restaurant,2
+Loan agency,1
+Oaxacan restaurant,1
+Oyster supplier,1
+Tractor dealer,1
+Fuel supplier,1
+Fishing charter,1
+Livestock producer,1
+Storage facility,1
+Antique furniture store,1
+Waste management service,1
+Housing complex,2
+Middle school,1
+Restaurant supply store,1
+Professional services,1
+Dentist,2
+Hungarian restaurant,1
+Bus charter,1
+Food,1
+Norwegian restaurant,1
+Pet supply store,1
+High school,1
+Software company,2
+Night club,2
+ATV rental service,1
+Military base,1
+Wesleyan church,1
+Housing development,1
+Ferry service,1
+Assisted living facility,2
+Event management company,1
+Small plates restaurant,1
+Country club,1
+Apartment complex,1
+Hair salon,1
+Tobacco shop,2
+Rehabilitation center,1
+Electrical equipment supplier,1
+Kennel,1
+Community health centre,1
+Zhejiang restaurant,1
+Economic development agency,3
+North Indian restaurant,1
+Finance broker,1
+Appliance store,1
+Auto parts store,2
+Pet boarding service,1
+Beer store,1
+Internet service provider,1
+Plastic fabrication company,1
+Homestay,1
+E-commerce service,1
+Mexican grocery store,1
+Fireworks store,2
+Feed manufacturer,1
+Tree farm,1
+Game store,1
+Car dealer,1
+Fish farm,1
+South Indian restaurant,1
+Entertainer,1
+General hospital,1
+Recreation center,1
+Emergency room,1
+Fujian restaurant,1
+Canoe & kayak rental service,1
+Goan restaurant,1
+Entertainment,1
+Registered general nurse,1
+County court,1
+City government office,4
+Agricultural production,1
+Woodworker,1
+ATV dealer,1
+Orchard,1
+Real estate rental agency,1
+Engraver,1
+Pumpkin patch,1
+Monastery,1
+Catering,1
+Meat packer,1
+Car wash,1
+Greenhouse,1
+Dairy farm,1
+Distillery,1
+Auto glass shop,1

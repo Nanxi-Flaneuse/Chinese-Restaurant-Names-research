@@ -1,0 +1,13 @@
+You will decide if the name '''{EN_NAME}''' belongs to the one or more of the following categories. If a name belongs to one or more of the categories below, return 1; otherwise, return 0. No explanation needed.
+
+{
+'superlative':['best', 'great', 'perfect', 'elite', 'legendary', 'No.1', 'OK', 'super'],
+'Names containing modifiers denoting superb taste':['Delicious', 'Tasty', 'Yummy', 'Luscious', 'Gourmet', 'Fresh'],
+'Names containing precious metal or gemstones':['gold', 'golden', 'silver', 'diamond', 'jade'],
+'Names containing words indicating expertise':['specialist', 'master', 'artisan'],
+'Names containing modifiers denoting good luck':['8', 'lucky', and 'fortune'],
+'Names containing words that elicit positive mood':['Happy', 'Joy', 'Sunny', 'Pleasure', 'Nice'],
+'Names containing words that exude opulence':['Grand', 'Feast', 'Jumbo'],
+'Names containing words with royalty implications':['King', 'Empress', 'Empire', 'Regent', 'Royal', 'VIP', 'Dynasty', 'King's'],
+'Names containing the word "red"':['red']
+}
